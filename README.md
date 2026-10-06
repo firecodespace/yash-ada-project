@@ -33,6 +33,8 @@ python scripts/majority_baseline.py
 python scripts/train_subtask1.py
 ```
 
+If the model is already cached but the machine cannot reach Hugging Face, add `--offline` to the training command.
+
 For Colab, upload/clone this repository, install `requirements.txt`, enable a GPU runtime, and run the same two Python commands in notebook cells. Training automatically uses mixed precision when CUDA is available. To change model or training settings:
 
 ```bash

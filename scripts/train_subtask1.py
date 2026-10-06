@@ -9,6 +9,7 @@ from pathlib import Path
 import numpy as np
 import torch
 from sklearn.model_selection import train_test_split
+from huggingface_hub import snapshot_download
 from transformers import (
     AutoModelForSequenceClassification,
     AutoTokenizer,
@@ -56,6 +57,11 @@ def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--data", type=Path, default=Path("data/raw/task11_subtask1_train.json"))
     parser.add_argument("--model", default="xlm-roberta-base")
+    parser.add_argument(
+        "--offline",
+        action="store_true",
+        help="Load the model from the Hugging Face cache without checking the Hub.",
+    )
     parser.add_argument("--output", type=Path, default=Path("outputs/subtask1-xlm-roberta"))
     parser.add_argument("--epochs", type=float, default=3)
     parser.add_argument("--learning-rate", type=float, default=2e-5)
@@ -79,8 +85,13 @@ def main() -> None:
         stratify=strata,
     )
 
-    tokenizer = AutoTokenizer.from_pretrained(args.model)
-    model = AutoModelForSequenceClassification.from_pretrained(args.model, num_labels=2)
+    model_reference = (
+        snapshot_download(args.model, local_files_only=True) if args.offline else args.model
+    )
+    tokenizer = AutoTokenizer.from_pretrained(model_reference, local_files_only=args.offline)
+    model = AutoModelForSequenceClassification.from_pretrained(
+        model_reference, num_labels=2, local_files_only=args.offline
+    )
     train_dataset = SyllogismDataset(train_rows, tokenizer, args.max_length)
     validation_dataset = SyllogismDataset(validation_rows, tokenizer, args.max_length)
     validation_plausibility = np.asarray([int(row["plausibility"]) for row in validation_rows])
