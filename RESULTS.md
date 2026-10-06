@@ -6,6 +6,7 @@ Use one row per run. Report the validation split seed and model revision so resu
 |---|---|---|---|---:|---:|---:|---:|---|
 | 1 | 2026-10-07 | Majority class | Predict most frequent training label | 42 | 0.500 | 0.333 | 0.500 | 768 train / 192 validation examples; local score estimate 0.356. |
 | 2 | 2026-10-07 | xlm-roberta-base | Full fine-tuning, 3 epochs, learning rate 2e-5 | 42 | 0.609 | 0.608 | 0.109 | 192 validation examples; local score estimate 0.552; CPU run. |
+| 3 | 2026-10-07 | xlm-roberta-base | Full fine-tuning, 3 epochs, learning rate 2e-5 | 123 | 0.755 | 0.755 | 0.070 | 192 validation examples; local score estimate 0.708; CPU run. |
 
 ## Metric notes
 
