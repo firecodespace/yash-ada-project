@@ -12,6 +12,8 @@ The first milestone implements Task 11 Subtask 1: binary validity classification
 
 The official training set is English only. The competition evaluation phase has ended; the released data and evaluation materials remain useful for a reproducible course project. We will treat a stronger result as an experimental objective, not a guaranteed outcome.
 
+The released Subtask 1 training file contains 960 examples, balanced across the four combinations of validity and plausibility (240 examples each).
+
 ## Setup
 
 Python 3.10+ is recommended. Create an environment, install the requirements, and download the official data:
@@ -27,6 +29,7 @@ python scripts/download_data.py
 Fine-tune the starter model:
 
 ```bash
+python scripts/majority_baseline.py
 python scripts/train_subtask1.py
 ```
 
@@ -36,11 +39,11 @@ For Colab, upload/clone this repository, install `requirements.txt`, enable a GP
 python scripts/train_subtask1.py --model xlm-roberta-base --epochs 4 --batch-size 8 --seed 42
 ```
 
-The model and machine-readable metrics are saved under `outputs/subtask1-xlm-roberta/`. Raw data and generated outputs are git-ignored.
+The majority baseline is saved to `outputs/majority-baseline.json`. The fine-tuned model and matched pretrained/fine-tuned metrics are saved under `outputs/subtask1-xlm-roberta/`. Raw data and generated outputs are git-ignored.
 
 ## Project workflow
 
-1. Establish the untuned model and simple baselines.
+1. Establish the majority and untuned-model baselines.
 2. Fine-tune with a fixed, stratified train/validation split.
 3. Compare multiple seeds and model/training choices.
 4. Inspect performance by plausibility group and classify error patterns.
@@ -63,4 +66,3 @@ RESULTS.md                Experiment log
 
 - [SemEval-2026 Task 11 overview](https://sites.google.com/view/semeval-2026-task-11)
 - [Official dataset and evaluation repository](https://github.com/neuro-symbolic-ai/semeval_2026_task_11)
-

@@ -115,8 +115,9 @@ def main() -> None:
         eval_dataset=validation_dataset,
         compute_metrics=compute_metrics,
     )
+    pretrained_metrics = trainer.evaluate()
     trainer.train()
-    metrics = trainer.evaluate()
+    finetuned_metrics = trainer.evaluate()
     args.output.mkdir(parents=True, exist_ok=True)
     trainer.save_model(str(args.output / "model"))
     tokenizer.save_pretrained(str(args.output / "model"))
@@ -126,11 +127,15 @@ def main() -> None:
             "seed": args.seed,
             "train_examples": len(train_rows),
             "validation_examples": len(validation_rows),
-            "validation": metrics,
+            "pretrained_validation": pretrained_metrics,
+            "finetuned_validation": finetuned_metrics,
         }, indent=2),
         encoding="utf-8",
     )
-    print(json.dumps(metrics, indent=2))
+    print(json.dumps({
+        "pretrained_validation": pretrained_metrics,
+        "finetuned_validation": finetuned_metrics,
+    }, indent=2))
 
 
 if __name__ == "__main__":
