@@ -28,14 +28,18 @@ The dataset is split into 80% training and 20% validation data. The split is str
 
 ## Current results
 
-The first two fine-tuning runs improved over their corresponding pretrained-model validation results:
+The final system is **Qwen2.5-1.5B with LoRA, a task prompt, and 1,800 exactly-labelled synthetic syllogisms added to the real training data**. All rows use the same fixed 192-example validation split.
 
-| Run | Seed | Pretrained accuracy | Fine-tuned accuracy | Fine-tuned macro-F1 | Content-effect estimate |
-|---|---:|---:|---:|---:|---:|
-| 1 | 42 | 50.0% | 60.9% | 0.608 | 0.109 |
-| 2 | 123 | 50.0% | 75.5% | 0.755 | 0.070 |
+| System | Accuracy | Macro-F1 | Content-effect estimate |
+|---|---:|---:|---:|
+| Majority class | 0.500 | 0.333 | 0.500 |
+| XLM-R base, fine-tuned | 0.609 | 0.608 | 0.109 |
+| **Qwen2.5-1.5B + LoRA (mean of 3 seeds)** | **0.931 ± 0.009** | 0.931 | 0.038 |
+| Qwen2.5-1.5B + LoRA, no task prompt | 0.813 | 0.812 | 0.035 |
+| Qwen2.5-3B 4-bit + LoRA | 0.943 | 0.943 | 0.022 |
+| **Final: Qwen2.5-1.5B + LoRA, real + synthetic data** | **0.948** | 0.948 | 0.022 |
 
-Each validation set contains 192 examples. Changing the seed also changes the train/validation split, so these two runs are **not a controlled comparison with each other**. The numbers show promising initial results, not a final claim about performance on unseen test data. See [RESULTS.md](RESULTS.md) for the experiment log.
+On a held-out synthetic set of 600 syllogisms the real-data-only model scored 0.815 and the final model 0.992; the real-data-only model also misjudged plain textbook arguments, which motivated the synthetic data (see the report, section 7). These are validation estimates, not official test scores. See [RESULTS.md](RESULTS.md) for every run and `report/Project_Report_ADA.pdf` for the full project report.
 
 ### What the metrics mean
 
@@ -109,6 +113,18 @@ The fine-tuned model and metrics are written to `outputs\subtask1-xlm-roberta\`.
 3. Loaded `xlm-roberta-base` and added a binary classification layer for valid/invalid predictions. That new layer starts with random weights; fine-tuning learns it from the task data.
 4. Measured the pretrained model, fine-tuned for three epochs, then measured the fine-tuned model on the same validation examples.
 5. Saved the model and metrics, then recorded the run in `RESULTS.md`.
+
+## Main method (LoRA)
+
+```powershell
+python scripts/gen_synthetic.py --n 1800 --output data/synthetic/syn_train.json
+python scripts/gen_synthetic.py --n 600 --test --output data/synthetic/syn_test.json
+python scripts/train_lora.py --model Qwen/Qwen2.5-1.5B --epochs 3 --output outputs/lora-qwen15b-syn --extra-train data/synthetic/syn_train.json --extra-eval data/synthetic/syn_test.json
+python scripts/predict.py "All planets are dogs. All dogs are animals. Therefore, all planets are animals."
+python scripts/make_figures.py ; python scripts/build_report.py   # report PDF
+```
+
+The LoRA scripts need `transformers==4.46.3` and `peft==0.13.2`, plus a CUDA GPU (6 GB is enough).
 
 ## Next steps
 

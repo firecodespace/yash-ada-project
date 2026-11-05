@@ -62,6 +62,8 @@ def main():
     ap.add_argument("--no-prompt", action="store_true")
     ap.add_argument("--seed", type=int, default=42)
     ap.add_argument("--split-seed", type=int, default=42)
+    ap.add_argument("--extra-train", type=Path, help="synthetic training JSON added to the training rows")
+    ap.add_argument("--extra-eval", type=Path, help="synthetic held-out JSON evaluated after training")
     ap.add_argument("--full", action="store_true", help="train on all data (no validation)")
     args = ap.parse_args()
 
@@ -73,6 +75,8 @@ def main():
     )
     if args.full:
         train_rows = rows
+    if args.extra_train:
+        train_rows = train_rows + json.loads(args.extra_train.read_text(encoding="utf-8"))
 
     tok = AutoTokenizer.from_pretrained(args.model)
     if tok.pad_token is None:
@@ -123,6 +127,8 @@ def main():
     trainer.train()
     minutes = (time.time() - t0) / 60
     args.output.mkdir(parents=True, exist_ok=True)
+    model.save_pretrained(str(args.output / "adapter"))
+    tok.save_pretrained(str(args.output / "adapter"))
     out = {"model": args.model, "seed": args.seed, "split_seed": args.split_seed,
            "lr": args.lr, "epochs": args.epochs, "rank": args.rank, "prompt": prompt,
            "train_minutes": minutes, "history": trainer.state.log_history}
@@ -136,9 +142,15 @@ def main():
              "pred": int(x), "logit_diff": float(l[1] - l[0]), "text": r["syllogism"]}
             for r, x, l in zip(val_rows, p, logits)]
         print(json.dumps(out["final"], indent=2))
-    else:
-        model.save_pretrained(str(args.output / "adapter"))
-        tok.save_pretrained(str(args.output / "adapter"))
+        if args.extra_eval:
+            trainer.compute_metrics = None  # metrics are tied to the 192 validation rows
+            syn = json.loads(args.extra_eval.read_text(encoding="utf-8"))
+            sp = trainer.predict(DS(syn, tok, 256, prompt))
+            sy = np.argmax(sp.predictions, -1)
+            out["synthetic_accuracy"] = float((sy == sp.label_ids).mean())
+            out["synthetic_by_validity"] = {
+                str(v): float((sy == sp.label_ids)[sp.label_ids == v].mean()) for v in (0, 1)}
+            print("synthetic held-out accuracy", out["synthetic_accuracy"])
     (args.output / "metrics.json").write_text(json.dumps(out, indent=1), encoding="utf-8")
 
 
