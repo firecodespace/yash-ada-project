@@ -126,6 +126,14 @@ python scripts/make_figures.py ; python scripts/build_report.py   # report PDF
 
 The LoRA scripts need `transformers==4.46.3` and `peft==0.13.2`, plus a CUDA GPU (6 GB is enough).
 
+## Live demo
+
+```powershell
+.venv311\Scripts\python scripts\demo.py     # wait for "Ready", then open http://127.0.0.1:8000
+```
+
+The page classifies any syllogism (about 0.1 s each), builds a syllogism from a chosen mood and figure and compares the model with the exact 256-world algorithm (`src/logic.py`), and runs a live accuracy test on random syllogisms. See [STUDY_GUIDE.md](STUDY_GUIDE.md) for the concepts explained with examples.
+
 ## Next steps
 
 The current script uses one seed for both the data split and model training. For a stronger experiment, separate those settings: keep the validation split fixed, train with several different seeds, and report the average and spread of the results. Then inspect errors and use the official evaluation kit before making final claims. A multilingual extension using Task 11 Subtask 3 is a possible stretch goal.

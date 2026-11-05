@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Syllogism Validity Demo</title>
+<style>
+:root{--bg:#f6f7fb;--card:#fff;--text:#1b2233;--muted:#667085;--line:#dde2ee;--blue:#1f4e9c;--gold:#f2b700;--ok:#1a7f4b;--bad:#c0392b;--okbg:#e6f5ec;--badbg:#fbeaea}
+@media(prefers-color-scheme:dark){:root{--bg:#10141f;--card:#182033;--text:#e8ecf6;--muted:#9aa5bd;--line:#2a3550;--blue:#6ea0ff;--ok:#4cd08a;--bad:#ff7a6b;--okbg:#12301f;--badbg:#3a1a1a}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 system-ui,Segoe UI,sans-serif}
+header{background:var(--blue);color:#fff;padding:18px 20px;border-bottom:4px solid var(--gold)}
+header h1{margin:0;font-size:20px}header p{margin:2px 0 0;font-size:14px;opacity:.9}
+main{max-width:860px;margin:0 auto;padding:16px;display:grid;gap:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}
+h2{margin:0 0 8px;font-size:17px}.muted{color:var(--muted);font-size:14px}
+textarea,input,select{width:100%;padding:10px;border:1px solid var(--line);border-radius:8px;background:var(--bg);color:var(--text);font:inherit}
+textarea{min-height:92px;resize:vertical}
+button{background:var(--blue);color:#fff;border:0;border-radius:8px;padding:10px 16px;font:inherit;font-weight:600;cursor:pointer}
+button.chip{background:transparent;color:var(--blue);border:1px solid var(--line);font-weight:500;padding:6px 10px;font-size:14px}
+button:disabled{opacity:.5}.row{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0}.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:8px}
+.res{margin-top:12px;padding:12px;border-radius:10px;border:1px solid var(--line)}
+.res.valid{background:var(--okbg);border-color:var(--ok)}.res.invalid{background:var(--badbg);border-color:var(--bad)}
+.big{font-size:22px;font-weight:700}.valid .big{color:var(--ok)}.invalid .big{color:var(--bad)}
+.bar{height:8px;background:var(--line);border-radius:4px;margin:6px 0;overflow:hidden}.bar i{display:block;height:100%;background:var(--blue)}
+table{width:100%;border-collapse:collapse;font-size:14px}td{padding:4px 0;vertical-align:top}
+.tag{display:inline-block;padding:2px 8px;border-radius:99px;font-size:13px;font-weight:600}.tag.ok{background:var(--okbg);color:var(--ok)}.tag.no{background:var(--badbg);color:var(--bad)}.tag.mid{background:var(--line)}
+</style></head><body>
+<header><h1>Logic over plausibility: syllogism validity</h1><p>SemEval 2026 Task 11 &middot; Qwen2.5-1.5B + LoRA &middot; Yash, A2305224323</p></header>
+<main>
+<section class="card"><h2>1. Type any syllogism</h2>
+<p class="muted">The model judges the logical form only. Try absurd content: it should not care.</p>
+<textarea id="text">All planets are dogs. All dogs are animals. Therefore, all planets are animals.</textarea>
+<div class="row" id="chips"></div>
+<button id="go">Check validity</button><div id="out1"></div></section>
+
+<section class="card"><h2>2. Build one and compare with the exact algorithm</h2>
+<p class="muted">Pick a figure and mood (e.g. AAA in figure 1 is the classic <i>Barbara</i>). The exact checker enumerates all 256 Venn-region worlds; the model has to agree without any logic code.</p>
+<div class="grid"><div><label class="muted">Figure</label><select id="fig"><option>1</option><option>2</option><option>3</option><option>4</option></select></div>
+<div><label class="muted">Mood</label><select id="mood"></select></div>
+<div><label class="muted">Subject S</label><input id="s" value="planets"></div>
+<div><label class="muted">Middle M</label><input id="m" value="dogs"></div>
+<div><label class="muted">Predicate P</label><input id="p" value="animals"></div></div>
+<div class="row"><button id="build">Generate and compare</button></div><div id="out2"></div></section>
+
+<section class="card"><h2>3. Live accuracy test</h2>
+<p class="muted">Draws random syllogisms (held-out words, balanced valid/invalid), classifies them and counts correct answers.</p>
+<button id="rand">Test 40 random syllogisms</button><div id="out3"></div></section>
+</main>
+<script>
+const $=id=>document.getElementById(id);
+const post=(u,b)=>fetch(u,{method:'POST',body:JSON.stringify(b)}).then(r=>r.json());
+const EX=[["Planets (absurd, valid)","All planets are dogs. All dogs are animals. Therefore, all planets are animals."],
+["Cars (plausible, invalid)","All cars are a type of vehicle. No animal is a car. Therefore, no animal can be a vehicle."],
+["Whales","No fish are mammals. All whales are mammals. Therefore, no whales are fish."],
+["Abstract","All A are B. All B are C. Therefore, all A are C."],
+["Undistributed middle","Some cats are pets. Some pets are dogs. Therefore, some cats are dogs."],
+["Plausible but invalid","All cats are mammals. All mammals are animals. Therefore, some animals are not cats."]];
+EX.forEach(([n,t])=>{const b=document.createElement('button');b.className='chip';b.textContent=n;b.onclick=()=>{$('text').value=t;run()};$('chips').append(b)});
+function verdictHtml(r){const p=r.p_valid*100;return `<div class="res ${r.valid?'valid':'invalid'}"><div class="big">${r.valid?'VALID':'INVALID'}</div>
+<div class="muted">Model confidence it is valid: ${p.toFixed(1)}%</div><div class="bar"><i style="width:${p}%"></i></div><div class="muted">${r.ms} ms</div></div>`}
+async function run(){$('go').disabled=true;const r=await post('/api/predict',{text:$('text').value});$('go').disabled=false;$('out1').innerHTML=r.error?`<div class="res">${r.error}</div>`:verdictHtml(r)}
+$('go').onclick=run;
+fetch('/api/meta').then(r=>r.json()).then(j=>{$('mood').innerHTML=j.moods.map(m=>`<option ${m==='AAA'?'selected':''}>${m}</option>`).join('')});
+$('build').onclick=async()=>{$('build').disabled=true;const r=await post('/api/build',{figure:$('fig').value,mood:$('mood').value,s:$('s').value,m:$('m').value,p:$('p').value,seed:Math.random()});$('build').disabled=false;
+if(r.error){$('out2').innerHTML=r.error;return}
+const ex={valid:['VALID','ok'],invalid:['INVALID','no'],conditional:['VALID only if every term is non-empty','mid']}[r.exact];
+const agree=r.exact==='conditional'?'n/a (convention-dependent)':((r.exact==='valid')===r.valid?'<span class="tag ok">agree</span>':'<span class="tag no">disagree</span>');
+$('out2').innerHTML=`<div class="res"><p><b>Generated:</b> ${r.text}</p><table>
+<tr><td>Exact algorithm (256 worlds)</td><td><span class="tag ${ex[1]}">${ex[0]}</span></td></tr>
+<tr><td>Model</td><td><span class="tag ${r.valid?'ok':'no'}">${r.valid?'VALID':'INVALID'}</span> (${(r.p_valid*100).toFixed(1)}% valid, ${r.ms} ms)</td></tr>
+<tr><td>Agreement</td><td>${agree}</td></tr></table></div>`};
+$('rand').onclick=async()=>{$('rand').disabled=true;$('out3').innerHTML='<p class="muted">Running...</p>';const r=await post('/api/random',{n:40});$('rand').disabled=false;
+$('out3').innerHTML=`<div class="res"><div class="big">${r.correct} / ${r.n} correct (${(100*r.correct/r.n).toFixed(1)}%)</div><div class="muted">${r.ms} ms total, ${(r.ms/r.n).toFixed(0)} ms per example</div>`+
+(r.wrong.length?'<p class="muted">Mistakes:</p><ul>'+r.wrong.map(w=>`<li>${w.text} <i>(truth: ${w.truth?'valid':'invalid'})</i></li>`).join('')+'</ul>':'<p class="muted">No mistakes this time.</p>')+'</div>'};
+</script></body></html>
