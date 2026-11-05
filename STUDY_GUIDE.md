@@ -131,4 +131,4 @@ Let n = tokens (~60), d = hidden width (1536), L = layers.
 .venv311\Scripts\python scripts\demo.py
 ```
 
-Wait for "Ready: http://127.0.0.1:8000" (about 20-30 seconds to load once), then open that address. Use the example chips, the "Generate and compare" panel (model vs exact algorithm), and the "Test 40 random syllogisms" button. Each check takes about 0.1 s.
+Wait for "Ready: http://127.0.0.1:8000" (about 20-30 seconds to load once), then open that address. Click an example chip or type your own two premises and a conclusion, then press "Check validity". Each check takes about 0.1 s.

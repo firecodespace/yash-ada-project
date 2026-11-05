@@ -132,7 +132,7 @@ The LoRA scripts need `transformers==4.46.3` and `peft==0.13.2`, plus a CUDA GPU
 .venv311\Scripts\python scripts\demo.py     # wait for "Ready", then open http://127.0.0.1:8000
 ```
 
-The page classifies any syllogism (about 0.1 s each), builds a syllogism from a chosen mood and figure and compares the model with the exact 256-world algorithm (`src/logic.py`), and runs a live accuracy test on random syllogisms. See [STUDY_GUIDE.md](STUDY_GUIDE.md) for the concepts explained with examples.
+The page takes two premises and a conclusion and says whether the conclusion follows (about 0.1 s per check). Example buttons are included. See [STUDY_GUIDE.md](STUDY_GUIDE.md) for the concepts explained with examples.
 
 ## Next steps
 
