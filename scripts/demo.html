@@ -55,7 +55,9 @@ const EX=[["Planets (absurd, valid)","All planets are dogs. All dogs are animals
 EX.forEach(([n,t])=>{const b=document.createElement('button');b.className='chip';b.textContent=n;b.onclick=()=>{$('text').value=t;run()};$('chips').append(b)});
 function verdictHtml(r){const p=r.p_valid*100;return `<div class="res ${r.valid?'valid':'invalid'}"><div class="big">${r.valid?'VALID':'INVALID'}</div>
 <div class="muted">Model confidence it is valid: ${p.toFixed(1)}%</div><div class="bar"><i style="width:${p}%"></i></div><div class="muted">${r.ms} ms</div></div>`}
-async function run(){$('go').disabled=true;const r=await post('/api/predict',{text:$('text').value});$('go').disabled=false;$('out1').innerHTML=r.error?`<div class="res">${r.error}</div>`:verdictHtml(r)}
+async function run(){const parts=$('text').value.split(/[.!?]+/).filter(s=>s.trim().length>2);
+if(parts.length<3){$('out1').innerHTML='<div class="res"><b>Incomplete syllogism.</b><div class="muted">It needs two premises and a conclusion, e.g. "All dogs are animals. All animals breathe. Therefore, all dogs breathe."</div></div>';return}
+$('go').disabled=true;const r=await post('/api/predict',{text:$('text').value});$('go').disabled=false;$('out1').innerHTML=r.error?`<div class="res">${r.error}</div>`:verdictHtml(r)}
 $('go').onclick=run;
 fetch('/api/meta').then(r=>r.json()).then(j=>{$('mood').innerHTML=j.moods.map(m=>`<option ${m==='AAA'?'selected':''}>${m}</option>`).join('')});
 $('build').onclick=async()=>{$('build').disabled=true;const r=await post('/api/build',{figure:$('fig').value,mood:$('mood').value,s:$('s').value,m:$('m').value,p:$('p').value,seed:Math.random()});$('build').disabled=false;
