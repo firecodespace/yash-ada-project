@@ -1,0 +1,29 @@
+{
+  "model": "xlm-roberta-base",
+  "seed": 123,
+  "train_examples": 768,
+  "validation_examples": 192,
+  "pretrained_validation": {
+    "eval_loss": 0.6962162852287292,
+    "eval_model_preparation_time": 0.0039,
+    "eval_accuracy": 0.5,
+    "eval_macro_f1": 0.3333333333333333,
+    "eval_content_effect_estimate": 0.5,
+    "eval_task_score_estimate": 0.3557541180606243,
+    "eval_runtime": 7.8028,
+    "eval_samples_per_second": 24.606,
+    "eval_steps_per_second": 3.076
+  },
+  "finetuned_validation": {
+    "eval_loss": 0.5290855169296265,
+    "eval_model_preparation_time": 0.0039,
+    "eval_accuracy": 0.7552083333333334,
+    "eval_macro_f1": 0.7548825207116665,
+    "eval_content_effect_estimate": 0.069515306122449,
+    "eval_task_score_estimate": 0.7076502981181534,
+    "eval_runtime": 8.1901,
+    "eval_samples_per_second": 23.443,
+    "eval_steps_per_second": 2.93,
+    "epoch": 3.0
+  }
+}

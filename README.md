@@ -35,7 +35,7 @@ The final system is **Qwen2.5-1.5B with LoRA, a task prompt, and 1,800 exactly-l
 | Majority class | 0.500 | 0.333 | 0.500 |
 | XLM-R base, fine-tuned | 0.609 | 0.608 | 0.109 |
 | **Qwen2.5-1.5B + LoRA (mean of 3 seeds)** | **0.931 ± 0.009** | 0.931 | 0.038 |
-| Qwen2.5-1.5B + LoRA, no task prompt | 0.813 | 0.812 | 0.035 |
+| Qwen2.5-1.5B + LoRA, no task prompt | 0.812 | 0.812 | 0.035 |
 | Qwen2.5-3B 4-bit + LoRA | 0.943 | 0.943 | 0.022 |
 | **Final: Qwen2.5-1.5B + LoRA, real + synthetic data** | **0.948** | 0.948 | 0.022 |
 

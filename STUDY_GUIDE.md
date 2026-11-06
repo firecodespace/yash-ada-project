@@ -70,7 +70,7 @@ The learned part has 2 x 16 x 1536 = about 49 thousand numbers instead of 2.4 mi
 
 Each input is wrapped as: *"Judge only the logical form; ignore whether the statements are true in the real world. Syllogism: ... Is the argument logically valid?"*
 
-This hint matters. Without it the same model dropped from 94.3% to 81.3%.
+This hint matters. Without it the same model dropped from 94.3% to 81.2%.
 
 ## 7. Training loop in plain words
 

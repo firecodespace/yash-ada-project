@@ -10,7 +10,7 @@ Use one row per run. Report the validation split seed and model revision so resu
 | 4 | 2026-11-05 | Qwen2.5-1.5B | LoRA r=16, prompt, 4 epochs, lr 1e-4 | 42 | 0.943 | 0.943 | 0.011 | Fixed split (split seed 42); GPU. |
 | 5 | 2026-11-05 | Qwen2.5-1.5B | Same, training seed 123 | 123 | 0.922 | 0.922 | 0.073 | Same split as run 4. |
 | 6 | 2026-11-05 | Qwen2.5-1.5B | Same, training seed 7 | 7 | 0.927 | 0.927 | 0.031 | Same split as run 4. |
-| 7 | 2026-11-05 | Qwen2.5-1.5B | Ablation: no task prompt | 42 | 0.813 | 0.812 | 0.035 | Prompt is worth about 13 points. |
+| 7 | 2026-11-05 | Qwen2.5-1.5B | Ablation: no task prompt | 42 | 0.812 | 0.812 | 0.035 | Prompt is worth about 13 points. |
 | 8 | 2026-11-05 | Qwen2.5-3B | 4-bit NF4 LoRA, prompt | 42 | 0.943 | 0.943 | 0.022 | Same accuracy as 1.5B. |
 | 9 | 2026-11-05 | Qwen2.5-1.5B | LoRA on real + 1,800 synthetic examples, 3 epochs (**final model**) | 42 | 0.948 | 0.948 | 0.022 | Held-out synthetic set: 0.992 (real-only model: 0.815). |
 

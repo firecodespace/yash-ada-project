@@ -1,0 +1,44 @@
+{
+ "qwen15b-noprompt": {
+  "accuracy": 0.8125,
+  "macro_f1": 0.8124796527400977,
+  "content_effect_estimate": 0.035388623534520214,
+  "task_score_estimate": 0.7851934544989349,
+  "train_minutes": 2.0815094828605654
+ },
+ "qwen15b-s123": {
+  "accuracy": 0.921875,
+  "macro_f1": 0.9216177231037204,
+  "content_effect_estimate": 0.07312925170068024,
+  "task_score_estimate": 0.8610995297883005,
+  "train_minutes": 12.090817316373188
+ },
+ "qwen15b-s42": {
+  "accuracy": 0.9427083333333334,
+  "macro_f1": 0.9427067791552506,
+  "content_effect_estimate": 0.011081560283687952,
+  "task_score_estimate": 0.932432360250655,
+  "train_minutes": 10.387340259552001
+ },
+ "qwen15b-s7": {
+  "accuracy": 0.9270833333333334,
+  "macro_f1": 0.9270833333333334,
+  "content_effect_estimate": 0.03125,
+  "task_score_estimate": 0.899407085495991,
+  "train_minutes": 14.496016371250153
+ },
+ "qwen15b-syn": {
+  "accuracy": 0.9479166666666666,
+  "macro_f1": 0.9479110146500271,
+  "content_effect_estimate": 0.022145028224055563,
+  "task_score_estimate": 0.9275991035926543,
+  "train_minutes": 18.932121884822845
+ },
+ "qwen3b-4bit": {
+  "accuracy": 0.9427083333333334,
+  "macro_f1": 0.9426943426943426,
+  "content_effect_estimate": 0.021719858156028393,
+  "task_score_estimate": 0.9228781344832547,
+  "train_minutes": 11.104442858695984
+ }
+}

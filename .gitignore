@@ -13,3 +13,8 @@ checkpoints/
 
 .venv311/
 data/synthetic/
+
+# Submission folder: large or third-party files stay out of git
+Final_Submission/5_Trained_Model/
+Final_Submission/4_Datasets/task11_subtask1_train.json
+Final_Submission/2_Code/outputs/

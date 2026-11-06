@@ -1,0 +1,4802 @@
+[
+ {
+  "id": "syn-0.6490262283",
+  "syllogism": "There are no glibbs that are also soldiers. Each of the books is among the glibbs. The conclusion is that nothing that is one of the books is one of the soldiers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.5638624421",
+  "syllogism": "It is impossible for any of the fendrils to be one of the rocks. At least one of the rocks is one of the boats. Therefore, there are no boats that are also fendrils.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIE"
+ },
+ {
+  "id": "syn-0.5564854130",
+  "syllogism": "Nothing that is one of the vaxxes is one of the stones. There exist students that are vaxxes. The conclusion is that some students are not stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.6077933998",
+  "syllogism": "Each of the flowers is among the poets. Some poets are whales. Therefore, at least one of the whales is not one of the flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AIO"
+ },
+ {
+  "id": "syn-0.0384934027",
+  "syllogism": "There are no violins that are also cats. There exist pilots that are violins. The conclusion is that at least one of the pilots is not one of the cats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.5188892304",
+  "syllogism": "At least one of the stones is not one of the poets. No stones are flowers. It follows that some flowers are not poets.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OEO"
+ },
+ {
+  "id": "syn-0.7202183938",
+  "syllogism": "No students are rivers. At least one of the students is one of the fendrils. Therefore, at least one of the fendrils is not one of the rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.5198408357",
+  "syllogism": "Some fendrils are pianos. Each of the fendrils is among the stones. The conclusion is that there are no stones that are also pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAE"
+ },
+ {
+  "id": "syn-0.2519711837",
+  "syllogism": "A portion of the boats are violins. Each of the boats is among the books. From this, it follows that some books are violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.1261862703",
+  "syllogism": "Not all whales are mexels. At least one of the whales is not one of the soldiers. Consequently, some soldiers are mexels.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OOI"
+ },
+ {
+  "id": "syn-0.9049150578",
+  "syllogism": "Nothing that is one of the glibbs is one of the doctors. All cats are doctors. Therefore, no cats are glibbs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.0598090754",
+  "syllogism": "It is impossible for any of the books to be one of the cats. There exist students that are not books. From this, it follows that some students are not cats.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EOO"
+ },
+ {
+  "id": "syn-0.1403045922",
+  "syllogism": "At least one of the books is one of the rivers. Every one of the books is one of the students. It follows that there exist students that are rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.2570138446",
+  "syllogism": "There exist boats that are whales. Some doctors are boats. Therefore, there exist doctors that are whales.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "III"
+ },
+ {
+  "id": "syn-0.2687661493",
+  "syllogism": "It is impossible for any of the flowers to be one of the fendrils. At least one of the fendrils is one of the rivers. The conclusion is that there exist rivers that are not flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.5139623967",
+  "syllogism": "Everything that is one of the boats is also one of the mexels. There exist trees that are not mexels. It follows that each of the trees is among the boats.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOA"
+ },
+ {
+  "id": "syn-0.9205047235",
+  "syllogism": "All soldiers are fendrils. No doctors are fendrils. Consequently, it is impossible for any of the doctors to be one of the soldiers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.2870159491",
+  "syllogism": "A portion of the glibbs are fendrils. There exist glibbs that are not books. From this, it follows that at least one of the books is not one of the fendrils.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IOO"
+ },
+ {
+  "id": "syn-0.6210723523",
+  "syllogism": "Each of the doctors is among the mexels. Nothing that is one of the fendrils is one of the mexels. Therefore, it is impossible for any of the fendrils to be one of the doctors.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.5134879775",
+  "syllogism": "It is impossible for any of the poets to be one of the cats. Some cats are quarfs. From this, it follows that there are no quarfs that are also poets.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIE"
+ },
+ {
+  "id": "syn-0.1791103411",
+  "syllogism": "All trees are rivers. It is impossible for any of the rivers to be one of the fendrils. The conclusion is that no fendrils are trees.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.9918217681",
+  "syllogism": "A portion of the mexels are flowers. At least one of the rocks is not one of the mexels. The conclusion is that no rocks are flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IOE"
+ },
+ {
+  "id": "syn-0.7321345980",
+  "syllogism": "All vaxxes are flowers. Each of the trees is among the vaxxes. It follows that everything that is one of the trees is also one of the flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.7049133942",
+  "syllogism": "Everything that is one of the students is also one of the mexels. There exist students that are not teachers. Consequently, it is impossible for any of the teachers to be one of the mexels.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AOE"
+ },
+ {
+  "id": "syn-0.7729203469",
+  "syllogism": "No vaxxes are mexels. All teachers are vaxxes. The conclusion is that nothing that is one of the teachers is one of the mexels.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.8279603718",
+  "syllogism": "All glibbs are trees. A portion of the students are trees. It follows that no students are glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AIE"
+ },
+ {
+  "id": "syn-0.2158948895",
+  "syllogism": "It is impossible for any of the fendrils to be one of the boats. A portion of the boats are pilots. Therefore, there exist pilots that are not fendrils.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.8764916530",
+  "syllogism": "Nothing that is one of the stones is one of the rivers. There exist pilots that are rivers. The conclusion is that there are no pilots that are also stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIE"
+ },
+ {
+  "id": "syn-0.2812782370",
+  "syllogism": "Nothing that is one of the pilots is one of the glibbs. Every one of the soldiers is one of the glibbs. Consequently, nothing that is one of the soldiers is one of the pilots.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.2134030817",
+  "syllogism": "No rivers are glibbs. No doctors are rivers. Therefore, there exist doctors that are glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EEI"
+ },
+ {
+  "id": "syn-0.5419764759",
+  "syllogism": "No vaxxes are stones. There exist stones that are rivers. From this, it follows that there exist rivers that are not vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.4934702090",
+  "syllogism": "There exist quarfs that are not pilots. It is impossible for any of the pilots to be one of the rocks. The conclusion is that each of the rocks is among the quarfs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OEA"
+ },
+ {
+  "id": "syn-0.5511761087",
+  "syllogism": "Each of the mexels is among the rocks. There exist glibbs that are not rocks. Consequently, not all glibbs are mexels.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.6600222303",
+  "syllogism": "Nothing that is one of the pianos is one of the vaxxes. Some books are vaxxes. The conclusion is that each of the books is among the pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIA"
+ },
+ {
+  "id": "syn-0.0711567846",
+  "syllogism": "It is impossible for any of the flowers to be one of the stones. A portion of the stones are violins. Therefore, some violins are not flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.9772680114",
+  "syllogism": "All pianos are flowers. Not all whales are flowers. From this, it follows that nothing that is one of the whales is one of the pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOE"
+ },
+ {
+  "id": "syn-0.6799440296",
+  "syllogism": "Each of the fendrils is among the boats. Some poets are fendrils. From this, it follows that at least one of the poets is one of the boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.2716474751",
+  "syllogism": "At least one of the pilots is not one of the rivers. At least one of the rivers is one of the boats. It follows that some boats are pilots.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OII"
+ },
+ {
+  "id": "syn-0.1110192578",
+  "syllogism": "Nothing that is one of the cats is one of the vaxxes. A portion of the cats are stones. From this, it follows that at least one of the stones is not one of the vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.4966941244",
+  "syllogism": "There exist glibbs that are not stones. Not all vaxxes are glibbs. The conclusion is that some vaxxes are stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OOI"
+ },
+ {
+  "id": "syn-0.8302575164",
+  "syllogism": "It is impossible for any of the teachers to be one of the vaxxes. Each of the trees is among the vaxxes. From this, it follows that it is impossible for any of the trees to be one of the teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.8684271491",
+  "syllogism": "Everything that is one of the soldiers is also one of the flowers. Some flowers are not fendrils. The conclusion is that no fendrils are soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AOE"
+ },
+ {
+  "id": "syn-0.6356186799",
+  "syllogism": "Each of the violins is among the trees. Nothing that is one of the teachers is one of the trees. Nothing that is one of the teachers is one of the violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.7833171392",
+  "syllogism": "There are no glibbs that are also poets. Nothing that is one of the cats is one of the glibbs. From this, it follows that not all cats are poets.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EEO"
+ },
+ {
+  "id": "syn-0.6333763466",
+  "syllogism": "There are no fendrils that are also vaxxes. Each of the trees is among the fendrils. Consequently, it is impossible for any of the trees to be one of the vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.8056859582",
+  "syllogism": "A portion of the books are flowers. At least one of the boats is not one of the books. Therefore, nothing that is one of the boats is one of the flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IOE"
+ },
+ {
+  "id": "syn-0.7735950787",
+  "syllogism": "Every one of the mexels is one of the soldiers. No soldiers are doctors. From this, it follows that it is impossible for any of the doctors to be one of the mexels.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.7622870975",
+  "syllogism": "There are no vaxxes that are also pilots. Some vaxxes are not whales. It follows that there are no whales that are also pilots.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EOE"
+ },
+ {
+  "id": "syn-0.7386555256",
+  "syllogism": "It is impossible for any of the whales to be one of the fendrils. At least one of the whales is one of the books. It follows that not all books are fendrils.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.9335884700",
+  "syllogism": "Nothing that is one of the rocks is one of the students. There exist trees that are not students. The conclusion is that everything that is one of the trees is also one of the rocks.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EOA"
+ },
+ {
+  "id": "syn-0.9338068198",
+  "syllogism": "Nothing that is one of the stones is one of the violins. All glibbs are stones. The conclusion is that it is impossible for any of the glibbs to be one of the violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.4407350637",
+  "syllogism": "At least one of the rocks is one of the soldiers. At least one of the rocks is not one of the poets. It follows that a portion of the poets are soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IOI"
+ },
+ {
+  "id": "syn-0.1345882117",
+  "syllogism": "Each of the pianos is among the quarfs. There exist boats that are not quarfs. Therefore, at least one of the boats is not one of the pianos.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.7634767568",
+  "syllogism": "Nothing that is one of the mexels is one of the rivers. Some mexels are doctors. Therefore, it is impossible for any of the doctors to be one of the rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIE"
+ },
+ {
+  "id": "syn-0.3494671899",
+  "syllogism": "A portion of the mexels are rivers. Every one of the rivers is one of the poets. The conclusion is that there exist poets that are mexels.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.5214163961",
+  "syllogism": "Every one of the glibbs is one of the flowers. Every one of the fendrils is one of the flowers. Therefore, all fendrils are glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.7249392951",
+  "syllogism": "A portion of the books are doctors. Each of the doctors is among the rivers. Consequently, at least one of the rivers is one of the books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.1280944858",
+  "syllogism": "Some students are fendrils. Everything that is one of the whales is also one of the students. Therefore, some whales are not fendrils.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IAO"
+ },
+ {
+  "id": "syn-0.1693870334",
+  "syllogism": "There are no rivers that are also rocks. A portion of the whales are rocks. There exist whales that are not rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.8284668232",
+  "syllogism": "At least one of the quarfs is not one of the soldiers. All doctors are quarfs. There exist doctors that are soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OAI"
+ },
+ {
+  "id": "syn-0.3274820049",
+  "syllogism": "Nothing that is one of the poets is one of the violins. Some poets are glibbs. Therefore, at least one of the glibbs is not one of the violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.7100244255",
+  "syllogism": "At least one of the teachers is not one of the soldiers. Everything that is one of the whales is also one of the soldiers. The conclusion is that it is impossible for any of the whales to be one of the teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OAE"
+ },
+ {
+  "id": "syn-0.4396321992",
+  "syllogism": "All flowers are students. All mexels are flowers. Therefore, all mexels are students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.3615444494",
+  "syllogism": "There are no students that are also boats. Some students are not pianos. It follows that each of the pianos is among the boats.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EOA"
+ },
+ {
+  "id": "syn-0.0222058827",
+  "syllogism": "At least one of the flowers is one of the cats. Everything that is one of the cats is also one of the pilots. Consequently, there exist pilots that are flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.0599996132",
+  "syllogism": "There exist glibbs that are stones. Some violins are stones. Therefore, there exist violins that are not glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "IIO"
+ },
+ {
+  "id": "syn-0.5652029088",
+  "syllogism": "All rivers are boats. No boats are books. There are no books that are also rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.8405048695",
+  "syllogism": "Not all vaxxes are students. There exist rocks that are vaxxes. It is impossible for any of the rocks to be one of the students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OIE"
+ },
+ {
+  "id": "syn-0.1380759156",
+  "syllogism": "Some mexels are stones. All stones are glibbs. Consequently, a portion of the glibbs are mexels.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.0712746519",
+  "syllogism": "A portion of the quarfs are teachers. There exist teachers that are not poets. Therefore, there exist poets that are not quarfs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IOO"
+ },
+ {
+  "id": "syn-0.5110673807",
+  "syllogism": "There are no teachers that are also pilots. A portion of the whales are pilots. Consequently, not all whales are teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.5553264102",
+  "syllogism": "At least one of the teachers is not one of the quarfs. At least one of the mexels is one of the quarfs. It follows that not all mexels are teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OIO"
+ },
+ {
+  "id": "syn-0.7823082317",
+  "syllogism": "Each of the trees is among the soldiers. No soldiers are students. The conclusion is that no students are trees.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.9802259401",
+  "syllogism": "A portion of the students are rocks. Not all quarfs are rocks. Not all quarfs are students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "IOO"
+ },
+ {
+  "id": "syn-0.5334390709",
+  "syllogism": "Every one of the students is one of the quarfs. Some books are students. It follows that at least one of the books is one of the quarfs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.0908709111",
+  "syllogism": "Everything that is one of the glibbs is also one of the violins. It is impossible for any of the violins to be one of the mexels. It follows that every one of the mexels is one of the glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEA"
+ },
+ {
+  "id": "syn-0.2514428626",
+  "syllogism": "Every one of the rivers is one of the pianos. It is impossible for any of the pianos to be one of the boats. Therefore, there are no boats that are also rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.8112691086",
+  "syllogism": "Some books are not students. A portion of the cats are books. Consequently, everything that is one of the cats is also one of the students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OIA"
+ },
+ {
+  "id": "syn-0.2515997232",
+  "syllogism": "Everything that is one of the pianos is also one of the trees. No stones are trees. It follows that nothing that is one of the stones is one of the pianos.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.1868085443",
+  "syllogism": "Not all fendrils are students. Nothing that is one of the fendrils is one of the rivers. The conclusion is that at least one of the rivers is not one of the students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OEO"
+ },
+ {
+  "id": "syn-0.1732957719",
+  "syllogism": "At least one of the books is one of the whales. Every one of the whales is one of the stones. Therefore, a portion of the stones are books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.5449877402",
+  "syllogism": "There are no whales that are also pilots. Not all glibbs are pilots. Not all glibbs are whales.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EOO"
+ },
+ {
+  "id": "syn-0.2673303865",
+  "syllogism": "Everything that is one of the books is also one of the vaxxes. Each of the flowers is among the books. The conclusion is that everything that is one of the flowers is also one of the vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.2024146831",
+  "syllogism": "Every one of the pianos is one of the rivers. Nothing that is one of the books is one of the pianos. At least one of the books is not one of the rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AEO"
+ },
+ {
+  "id": "syn-0.9196972902",
+  "syllogism": "Every one of the poets is one of the trees. Nothing that is one of the students is one of the trees. Therefore, there are no students that are also poets.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.6636984643",
+  "syllogism": "Not all vaxxes are stones. At least one of the vaxxes is one of the mexels. The conclusion is that all mexels are stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OIA"
+ },
+ {
+  "id": "syn-0.1858871926",
+  "syllogism": "Each of the glibbs is among the rocks. Everything that is one of the flowers is also one of the glibbs. All flowers are rocks.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.0539090559",
+  "syllogism": "There exist whales that are pianos. At least one of the whales is not one of the violins. Consequently, some violins are pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IOI"
+ },
+ {
+  "id": "syn-0.1639425872",
+  "syllogism": "All trees are cats. No cats are doctors. It follows that no doctors are trees.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.3934906276",
+  "syllogism": "Everything that is one of the rivers is also one of the trees. There exist rivers that are not flowers. It follows that nothing that is one of the flowers is one of the trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AOE"
+ },
+ {
+  "id": "syn-0.2844104661",
+  "syllogism": "It is impossible for any of the books to be one of the stones. All doctors are stones. Therefore, there are no doctors that are also books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.1336553555",
+  "syllogism": "It is impossible for any of the fendrils to be one of the teachers. No rocks are fendrils. Consequently, everything that is one of the rocks is also one of the teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EEA"
+ },
+ {
+  "id": "syn-0.3535508680",
+  "syllogism": "No vaxxes are trees. There exist quarfs that are trees. It follows that not all quarfs are vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.6297435075",
+  "syllogism": "All trees are rivers. There exist fendrils that are not trees. Therefore, every one of the fendrils is one of the rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AOA"
+ },
+ {
+  "id": "syn-0.1579256609",
+  "syllogism": "Nothing that is one of the trees is one of the boats. All violins are trees. No violins are boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.4240508875",
+  "syllogism": "There are no poets that are also flowers. No poets are pilots. The conclusion is that everything that is one of the pilots is also one of the flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EEA"
+ },
+ {
+  "id": "syn-0.7252119585",
+  "syllogism": "Each of the rivers is among the fendrils. Every one of the stones is one of the rivers. From this, it follows that all stones are fendrils.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.2851805923",
+  "syllogism": "All doctors are books. All doctors are whales. Therefore, no whales are books.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AAE"
+ },
+ {
+  "id": "syn-0.0154833043",
+  "syllogism": "Every one of the students is one of the teachers. There exist pilots that are students. Consequently, a portion of the pilots are teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.4734980693",
+  "syllogism": "Nothing that is one of the vaxxes is one of the doctors. No quarfs are vaxxes. Nothing that is one of the quarfs is one of the doctors.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EEE"
+ },
+ {
+  "id": "syn-0.0107974518",
+  "syllogism": "All poets are teachers. At least one of the vaxxes is one of the poets. It follows that there exist vaxxes that are teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.3085867812",
+  "syllogism": "Some quarfs are not whales. Every one of the pilots is one of the whales. The conclusion is that there are no pilots that are also quarfs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OAE"
+ },
+ {
+  "id": "syn-0.3194496144",
+  "syllogism": "Everything that is one of the teachers is also one of the violins. It is impossible for any of the flowers to be one of the violins. Therefore, no flowers are teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.6606716777",
+  "syllogism": "Some soldiers are not teachers. A portion of the teachers are violins. The conclusion is that all violins are soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OIA"
+ },
+ {
+  "id": "syn-0.3582348927",
+  "syllogism": "There are no cats that are also fendrils. Everything that is one of the vaxxes is also one of the fendrils. Nothing that is one of the vaxxes is one of the cats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.3678236233",
+  "syllogism": "At least one of the students is not one of the rivers. It is impossible for any of the students to be one of the cats. Consequently, some cats are not rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OEO"
+ },
+ {
+  "id": "syn-0.0600793073",
+  "syllogism": "No rivers are books. Some whales are books. It follows that not all whales are rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.6766665862",
+  "syllogism": "There are no fendrils that are also soldiers. Each of the soldiers is among the flowers. From this, it follows that no flowers are fendrils.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.1590224008",
+  "syllogism": "Every one of the students is one of the mexels. Some poets are not mexels. Therefore, at least one of the poets is not one of the students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.1280585976",
+  "syllogism": "There exist pilots that are not rivers. There exist rivers that are not mexels. Therefore, all mexels are pilots.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OOA"
+ },
+ {
+  "id": "syn-0.5796938573",
+  "syllogism": "Nothing that is one of the trees is one of the books. There exist pianos that are trees. Therefore, at least one of the pianos is not one of the books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.0381639849",
+  "syllogism": "It is impossible for any of the doctors to be one of the rivers. A portion of the soldiers are rivers. Every one of the soldiers is one of the doctors.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIA"
+ },
+ {
+  "id": "syn-0.8691800692",
+  "syllogism": "It is impossible for any of the flowers to be one of the boats. Everything that is one of the fendrils is also one of the flowers. Consequently, no fendrils are boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.0059349775",
+  "syllogism": "Each of the glibbs is among the doctors. There are no books that are also glibbs. It follows that some books are not doctors.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AEO"
+ },
+ {
+  "id": "syn-0.6998447690",
+  "syllogism": "No rocks are glibbs. A portion of the quarfs are glibbs. The conclusion is that there exist quarfs that are not rocks.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.8140389882",
+  "syllogism": "At least one of the glibbs is not one of the pilots. There exist doctors that are not glibbs. The conclusion is that every one of the doctors is one of the pilots.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OOA"
+ },
+ {
+  "id": "syn-0.8391862058",
+  "syllogism": "At least one of the books is not one of the flowers. Each of the books is among the glibbs. Therefore, some glibbs are not flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.6068280765",
+  "syllogism": "Some pianos are not soldiers. There exist soldiers that are books. From this, it follows that everything that is one of the books is also one of the pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OIA"
+ },
+ {
+  "id": "syn-0.4448054633",
+  "syllogism": "It is impossible for any of the boats to be one of the doctors. A portion of the trees are doctors. Consequently, not all trees are boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.3244949469",
+  "syllogism": "Some poets are not doctors. Nothing that is one of the whales is one of the doctors. Consequently, everything that is one of the whales is also one of the poets.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OEA"
+ },
+ {
+  "id": "syn-0.9925930366",
+  "syllogism": "Some teachers are pilots. Everything that is one of the pilots is also one of the pianos. Therefore, there exist pianos that are teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.5503258488",
+  "syllogism": "Each of the books is among the doctors. Every one of the stones is one of the doctors. The conclusion is that no stones are books.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AAE"
+ },
+ {
+  "id": "syn-0.2762278030",
+  "syllogism": "Nothing that is one of the students is one of the teachers. Every one of the violins is one of the students. Consequently, no violins are teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.1527492268",
+  "syllogism": "Everything that is one of the pianos is also one of the trees. Everything that is one of the trees is also one of the mexels. Therefore, some mexels are not pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AAO"
+ },
+ {
+  "id": "syn-0.4347116206",
+  "syllogism": "There are no trees that are also glibbs. There exist glibbs that are rivers. Therefore, some rivers are not trees.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.7405428570",
+  "syllogism": "At least one of the stones is one of the students. There exist doctors that are not students. The conclusion is that there exist doctors that are stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "IOI"
+ },
+ {
+  "id": "syn-0.7631385377",
+  "syllogism": "Every one of the vaxxes is one of the students. A portion of the vaxxes are soldiers. A portion of the soldiers are students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.3656248348",
+  "syllogism": "Some rocks are not poets. Nothing that is one of the rocks is one of the vaxxes. Consequently, nothing that is one of the vaxxes is one of the poets.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OEE"
+ },
+ {
+  "id": "syn-0.0941313957",
+  "syllogism": "A portion of the whales are flowers. Everything that is one of the flowers is also one of the books. Therefore, there exist books that are whales.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.5435985759",
+  "syllogism": "At least one of the pianos is not one of the flowers. It is impossible for any of the rivers to be one of the flowers. The conclusion is that some rivers are pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OEI"
+ },
+ {
+  "id": "syn-0.2430436111",
+  "syllogism": "It is impossible for any of the fendrils to be one of the whales. At least one of the rocks is one of the whales. Some rocks are not fendrils.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.3564607836",
+  "syllogism": "Nothing that is one of the students is one of the poets. Not all books are poets. The conclusion is that no books are students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EOE"
+ },
+ {
+  "id": "syn-0.4365642346",
+  "syllogism": "All students are violins. There exist teachers that are not violins. Therefore, not all teachers are students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.6977712331",
+  "syllogism": "Some rivers are poets. At least one of the poets is not one of the stones. Some stones are rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IOI"
+ },
+ {
+  "id": "syn-0.3803529956",
+  "syllogism": "There are no violins that are also flowers. All pilots are flowers. Nothing that is one of the pilots is one of the violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.4674270340",
+  "syllogism": "Each of the pilots is among the doctors. It is impossible for any of the flowers to be one of the doctors. Consequently, a portion of the flowers are pilots.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEI"
+ },
+ {
+  "id": "syn-0.6099661156",
+  "syllogism": "Everything that is one of the cats is also one of the doctors. It is impossible for any of the stones to be one of the doctors. It follows that there are no stones that are also cats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.7270117648",
+  "syllogism": "No rocks are soldiers. There are no pianos that are also rocks. Consequently, it is impossible for any of the pianos to be one of the soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EEE"
+ },
+ {
+  "id": "syn-0.7620281065",
+  "syllogism": "No teachers are soldiers. Some trees are soldiers. Therefore, some trees are not teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.6316721623",
+  "syllogism": "Nothing that is one of the stones is one of the trees. It is impossible for any of the soldiers to be one of the stones. Therefore, every one of the soldiers is one of the trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EEA"
+ },
+ {
+  "id": "syn-0.9087448170",
+  "syllogism": "Not all pianos are violins. All pianos are pilots. Therefore, there exist pilots that are not violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.5619346705",
+  "syllogism": "There are no trees that are also students. Everything that is one of the students is also one of the mexels. Consequently, everything that is one of the mexels is also one of the trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EAA"
+ },
+ {
+  "id": "syn-0.6150355196",
+  "syllogism": "There are no whales that are also stones. A portion of the stones are soldiers. The conclusion is that at least one of the soldiers is not one of the whales.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.5536701756",
+  "syllogism": "At least one of the stones is one of the poets. No soldiers are poets. Therefore, all soldiers are stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "IEA"
+ },
+ {
+  "id": "syn-0.2330631936",
+  "syllogism": "At least one of the glibbs is one of the doctors. Each of the doctors is among the rivers. The conclusion is that some rivers are glibbs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.6377264727",
+  "syllogism": "There exist trees that are not violins. Some violins are rocks. It follows that some rocks are not trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OIO"
+ },
+ {
+  "id": "syn-0.3304589351",
+  "syllogism": "At least one of the rivers is not one of the doctors. All rivers are flowers. The conclusion is that at least one of the flowers is not one of the doctors.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.6701769598",
+  "syllogism": "Some pianos are not trees. A portion of the trees are violins. Consequently, there are no violins that are also pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OIE"
+ },
+ {
+  "id": "syn-0.4240400345",
+  "syllogism": "Every one of the vaxxes is one of the rocks. It is impossible for any of the rocks to be one of the books. Consequently, there are no books that are also vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.3825317604",
+  "syllogism": "Every one of the books is one of the trees. There are no vaxxes that are also trees. Therefore, a portion of the vaxxes are books.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEI"
+ },
+ {
+  "id": "syn-0.2917724355",
+  "syllogism": "Everything that is one of the teachers is also one of the soldiers. Some doctors are not soldiers. Therefore, some doctors are not teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.5938214519",
+  "syllogism": "Nothing that is one of the vaxxes is one of the stones. A portion of the vaxxes are poets. At least one of the poets is one of the stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EII"
+ },
+ {
+  "id": "syn-0.4062938611",
+  "syllogism": "Not all violins are vaxxes. Every one of the violins is one of the cats. Consequently, not all cats are vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.2611482896",
+  "syllogism": "At least one of the pianos is not one of the stones. No doctors are stones. Consequently, there exist doctors that are not pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OEO"
+ },
+ {
+  "id": "syn-0.2869590231",
+  "syllogism": "Everything that is one of the rivers is also one of the stones. Nothing that is one of the trees is one of the stones. It follows that it is impossible for any of the trees to be one of the rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.8410824107",
+  "syllogism": "At least one of the teachers is one of the soldiers. At least one of the pianos is one of the teachers. There exist pianos that are soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "III"
+ },
+ {
+  "id": "syn-0.0895985760",
+  "syllogism": "Some flowers are soldiers. Everything that is one of the soldiers is also one of the rivers. The conclusion is that a portion of the rivers are flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.6104205493",
+  "syllogism": "No fendrils are doctors. No fendrils are mexels. Consequently, everything that is one of the mexels is also one of the doctors.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EEA"
+ },
+ {
+  "id": "syn-0.5759610582",
+  "syllogism": "Each of the teachers is among the mexels. A portion of the teachers are boats. There exist boats that are mexels.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.0067947712",
+  "syllogism": "At least one of the glibbs is one of the pilots. Not all pilots are soldiers. Therefore, some soldiers are not glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IOO"
+ },
+ {
+  "id": "syn-0.4268818559",
+  "syllogism": "Everything that is one of the vaxxes is also one of the students. Some whales are vaxxes. Therefore, some whales are students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.7445861468",
+  "syllogism": "Everything that is one of the pianos is also one of the soldiers. At least one of the pianos is one of the boats. Consequently, there exist boats that are not soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AIO"
+ },
+ {
+  "id": "syn-0.7772145120",
+  "syllogism": "At least one of the trees is one of the pilots. Each of the pilots is among the teachers. There exist teachers that are trees.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.9227355680",
+  "syllogism": "Everything that is one of the whales is also one of the rocks. Not all students are rocks. From this, it follows that no students are whales.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOE"
+ },
+ {
+  "id": "syn-0.7838463821",
+  "syllogism": "No vaxxes are stones. Each of the teachers is among the stones. Therefore, no teachers are vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.4930920512",
+  "syllogism": "Some boats are not flowers. There exist boats that are not soldiers. From this, it follows that each of the soldiers is among the flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OOA"
+ },
+ {
+  "id": "syn-0.9835579462",
+  "syllogism": "There are no students that are also mexels. Each of the books is among the mexels. From this, it follows that there are no books that are also students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.2661579727",
+  "syllogism": "At least one of the trees is not one of the fendrils. Nothing that is one of the fendrils is one of the vaxxes. The conclusion is that at least one of the vaxxes is not one of the trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OEO"
+ },
+ {
+  "id": "syn-0.0558321841",
+  "syllogism": "There exist boats that are not cats. Each of the boats is among the soldiers. The conclusion is that not all soldiers are cats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.0348931283",
+  "syllogism": "There exist violins that are glibbs. Some violins are not flowers. The conclusion is that there are no flowers that are also glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IOE"
+ },
+ {
+  "id": "syn-0.1250622852",
+  "syllogism": "All flowers are rocks. No boats are rocks. Nothing that is one of the boats is one of the flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.9166956025",
+  "syllogism": "A portion of the glibbs are boats. It is impossible for any of the mexels to be one of the boats. From this, it follows that there exist mexels that are not glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "IEO"
+ },
+ {
+  "id": "syn-0.1891968523",
+  "syllogism": "There exist stones that are glibbs. All stones are books. It follows that at least one of the books is one of the glibbs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.4611210218",
+  "syllogism": "Some glibbs are not soldiers. Each of the rocks is among the soldiers. The conclusion is that some rocks are glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OAI"
+ },
+ {
+  "id": "syn-0.1556734908",
+  "syllogism": "Nothing that is one of the doctors is one of the rocks. Everything that is one of the poets is also one of the doctors. No poets are rocks.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.2884487293",
+  "syllogism": "Every one of the glibbs is one of the pianos. No poets are glibbs. The conclusion is that each of the poets is among the pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AEA"
+ },
+ {
+  "id": "syn-0.7700214153",
+  "syllogism": "Each of the whales is among the vaxxes. There exist rivers that are not vaxxes. From this, it follows that some rivers are not whales.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.5393079327",
+  "syllogism": "All cats are flowers. Not all cats are trees. From this, it follows that no trees are flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AOE"
+ },
+ {
+  "id": "syn-0.6524848714",
+  "syllogism": "Every one of the glibbs is one of the books. Not all poets are books. Some poets are not glibbs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.4860030584",
+  "syllogism": "Some stones are not students. Everything that is one of the students is also one of the poets. From this, it follows that it is impossible for any of the poets to be one of the stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OAE"
+ },
+ {
+  "id": "syn-0.3379234572",
+  "syllogism": "Every one of the teachers is one of the soldiers. There are no doctors that are also soldiers. Consequently, there are no doctors that are also teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.0934915843",
+  "syllogism": "Some rivers are books. There are no books that are also rocks. Consequently, a portion of the rocks are rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IEI"
+ },
+ {
+  "id": "syn-0.8216375568",
+  "syllogism": "Each of the books is among the quarfs. There are no vaxxes that are also quarfs. The conclusion is that no vaxxes are books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.3424299360",
+  "syllogism": "Every one of the boats is one of the quarfs. All boats are whales. From this, it follows that nothing that is one of the whales is one of the quarfs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AAE"
+ },
+ {
+  "id": "syn-0.3019876398",
+  "syllogism": "There are no quarfs that are also flowers. Every one of the glibbs is one of the quarfs. It follows that nothing that is one of the glibbs is one of the flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.6407959272",
+  "syllogism": "Not all flowers are quarfs. At least one of the flowers is one of the rocks. Therefore, all rocks are quarfs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OIA"
+ },
+ {
+  "id": "syn-0.4885114905",
+  "syllogism": "It is impossible for any of the rocks to be one of the boats. At least one of the books is one of the rocks. Therefore, some books are not boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.6360252973",
+  "syllogism": "At least one of the violins is not one of the books. Nothing that is one of the poets is one of the violins. It follows that there exist poets that are books.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OEI"
+ },
+ {
+  "id": "syn-0.0209204043",
+  "syllogism": "A portion of the soldiers are rocks. Everything that is one of the rocks is also one of the poets. It follows that some poets are soldiers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.8335413840",
+  "syllogism": "At least one of the rivers is not one of the mexels. There are no mexels that are also students. It follows that everything that is one of the students is also one of the rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OEA"
+ },
+ {
+  "id": "syn-0.7601772735",
+  "syllogism": "Each of the books is among the glibbs. Everything that is one of the flowers is also one of the books. It follows that each of the flowers is among the glibbs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.8448080197",
+  "syllogism": "There are no poets that are also soldiers. At least one of the teachers is not one of the poets. There are no teachers that are also soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EOE"
+ },
+ {
+  "id": "syn-0.7758411637",
+  "syllogism": "Everything that is one of the violins is also one of the rocks. There exist vaxxes that are not rocks. The conclusion is that not all vaxxes are violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.5193556258",
+  "syllogism": "Each of the fendrils is among the glibbs. Everything that is one of the glibbs is also one of the rocks. It is impossible for any of the rocks to be one of the fendrils.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AAE"
+ },
+ {
+  "id": "syn-0.5406348427",
+  "syllogism": "Every one of the glibbs is one of the soldiers. Some whales are glibbs. Consequently, at least one of the whales is one of the soldiers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.9725154373",
+  "syllogism": "Some teachers are pianos. A portion of the stones are pianos. It follows that everything that is one of the stones is also one of the teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "IIA"
+ },
+ {
+  "id": "syn-0.8945827350",
+  "syllogism": "It is impossible for any of the pilots to be one of the fendrils. A portion of the books are fendrils. At least one of the books is not one of the pilots.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.9147198877",
+  "syllogism": "Not all teachers are soldiers. There exist boats that are teachers. Therefore, a portion of the boats are soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OII"
+ },
+ {
+  "id": "syn-0.7654967737",
+  "syllogism": "No violins are mexels. Some violins are glibbs. Some glibbs are not mexels.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.6690873876",
+  "syllogism": "At least one of the whales is one of the doctors. A portion of the teachers are whales. Consequently, all teachers are doctors.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IIA"
+ },
+ {
+  "id": "syn-0.1121811163",
+  "syllogism": "No mexels are pilots. Everything that is one of the soldiers is also one of the mexels. From this, it follows that there are no soldiers that are also pilots.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.1700086577",
+  "syllogism": "Every one of the pilots is one of the cats. A portion of the cats are glibbs. The conclusion is that there are no glibbs that are also pilots.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AIE"
+ },
+ {
+  "id": "syn-0.3175958896",
+  "syllogism": "At least one of the flowers is one of the glibbs. Each of the flowers is among the mexels. It follows that a portion of the mexels are glibbs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.2980600152",
+  "syllogism": "Nothing that is one of the pianos is one of the trees. A portion of the rocks are trees. Therefore, no rocks are pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIE"
+ },
+ {
+  "id": "syn-0.9524590619",
+  "syllogism": "No rivers are violins. Everything that is one of the whales is also one of the violins. The conclusion is that it is impossible for any of the whales to be one of the rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.1609940453",
+  "syllogism": "There exist books that are not glibbs. Some soldiers are books. Consequently, no soldiers are glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OIE"
+ },
+ {
+  "id": "syn-0.9379727620",
+  "syllogism": "A portion of the glibbs are stones. Every one of the glibbs is one of the fendrils. Consequently, a portion of the fendrils are stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.8048665045",
+  "syllogism": "At least one of the glibbs is one of the soldiers. Not all vaxxes are glibbs. Consequently, there are no vaxxes that are also soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IOE"
+ },
+ {
+  "id": "syn-0.7199737239",
+  "syllogism": "There are no teachers that are also pianos. Everything that is one of the students is also one of the teachers. From this, it follows that no students are pianos.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.0149568151",
+  "syllogism": "Some trees are mexels. There are no trees that are also boats. The conclusion is that it is impossible for any of the boats to be one of the mexels.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IEE"
+ },
+ {
+  "id": "syn-0.8875747307",
+  "syllogism": "Every one of the stones is one of the boats. Everything that is one of the teachers is also one of the stones. Each of the teachers is among the boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.0377741787",
+  "syllogism": "Some rocks are not stones. Each of the rocks is among the trees. Consequently, each of the trees is among the stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAA"
+ },
+ {
+  "id": "syn-0.7791430472",
+  "syllogism": "At least one of the books is not one of the trees. Every one of the books is one of the pianos. Therefore, at least one of the pianos is not one of the trees.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.5932958989",
+  "syllogism": "Some flowers are not poets. A portion of the violins are poets. From this, it follows that there exist violins that are flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OII"
+ },
+ {
+  "id": "syn-0.1774948836",
+  "syllogism": "Each of the poets is among the rocks. Each of the fendrils is among the poets. Consequently, all fendrils are rocks.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.3333418036",
+  "syllogism": "Not all mexels are boats. At least one of the boats is not one of the teachers. The conclusion is that no teachers are mexels.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OOE"
+ },
+ {
+  "id": "syn-0.1824771282",
+  "syllogism": "Every one of the rivers is one of the fendrils. There are no vaxxes that are also fendrils. The conclusion is that no vaxxes are rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.0923216007",
+  "syllogism": "Not all pianos are rocks. At least one of the rocks is one of the flowers. Consequently, some flowers are not pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OIO"
+ },
+ {
+  "id": "syn-0.8125082658",
+  "syllogism": "It is impossible for any of the violins to be one of the quarfs. A portion of the quarfs are pilots. Therefore, there exist pilots that are not violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.9803750132",
+  "syllogism": "At least one of the students is not one of the vaxxes. Some vaxxes are poets. Consequently, not all poets are students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OIO"
+ },
+ {
+  "id": "syn-0.3073874945",
+  "syllogism": "It is impossible for any of the whales to be one of the flowers. Some whales are soldiers. The conclusion is that at least one of the soldiers is not one of the flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.6315197436",
+  "syllogism": "There exist boats that are not poets. There exist poets that are not flowers. It follows that nothing that is one of the flowers is one of the boats.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OOE"
+ },
+ {
+  "id": "syn-0.7596201921",
+  "syllogism": "All poets are stones. Some teachers are not stones. The conclusion is that there exist teachers that are not poets.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.4321088349",
+  "syllogism": "At least one of the rivers is not one of the pilots. Each of the cats is among the rivers. From this, it follows that not all cats are pilots.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.2379535099",
+  "syllogism": "Each of the students is among the fendrils. There exist rocks that are students. The conclusion is that at least one of the rocks is one of the fendrils.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.1853450608",
+  "syllogism": "There are no books that are also teachers. All doctors are books. Therefore, there exist doctors that are teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAI"
+ },
+ {
+  "id": "syn-0.1382061211",
+  "syllogism": "Everything that is one of the poets is also one of the pianos. A portion of the cats are poets. From this, it follows that at least one of the cats is one of the pianos.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.3785167873",
+  "syllogism": "A portion of the poets are teachers. No poets are rivers. From this, it follows that a portion of the rivers are teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IEI"
+ },
+ {
+  "id": "syn-0.0258302065",
+  "syllogism": "All quarfs are boats. Nothing that is one of the boats is one of the fendrils. Therefore, no fendrils are quarfs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.8377559267",
+  "syllogism": "Not all flowers are vaxxes. Each of the stones is among the flowers. It follows that all stones are vaxxes.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OAA"
+ },
+ {
+  "id": "syn-0.3311078613",
+  "syllogism": "There exist rocks that are boats. Everything that is one of the rocks is also one of the quarfs. Consequently, a portion of the quarfs are boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.7755138871",
+  "syllogism": "Every one of the glibbs is one of the trees. There are no cats that are also trees. Everything that is one of the cats is also one of the glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEA"
+ },
+ {
+  "id": "syn-0.5146664425",
+  "syllogism": "Each of the poets is among the vaxxes. It is impossible for any of the doctors to be one of the vaxxes. The conclusion is that no doctors are poets.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.2701396277",
+  "syllogism": "There are no rocks that are also pilots. Nothing that is one of the rocks is one of the books. Consequently, some books are not pilots.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EEO"
+ },
+ {
+  "id": "syn-0.7819011682",
+  "syllogism": "Everything that is one of the fendrils is also one of the rivers. Everything that is one of the trees is also one of the fendrils. From this, it follows that each of the trees is among the rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.3941596299",
+  "syllogism": "It is impossible for any of the doctors to be one of the books. Everything that is one of the books is also one of the violins. It follows that every one of the violins is one of the doctors.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EAA"
+ },
+ {
+  "id": "syn-0.8231787323",
+  "syllogism": "Each of the whales is among the students. There exist whales that are doctors. The conclusion is that some doctors are students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.2581773296",
+  "syllogism": "It is impossible for any of the pilots to be one of the rocks. At least one of the rocks is not one of the doctors. It follows that each of the doctors is among the pilots.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EOA"
+ },
+ {
+  "id": "syn-0.2395302492",
+  "syllogism": "There are no rocks that are also mexels. Some rocks are vaxxes. From this, it follows that not all vaxxes are mexels.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.3693633853",
+  "syllogism": "Some whales are not soldiers. It is impossible for any of the stones to be one of the soldiers. Therefore, at least one of the stones is one of the whales.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OEI"
+ },
+ {
+  "id": "syn-0.7459565399",
+  "syllogism": "At least one of the glibbs is not one of the books. All glibbs are teachers. Therefore, not all teachers are books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.3293145531",
+  "syllogism": "Nothing that is one of the rivers is one of the teachers. Not all students are teachers. Consequently, some students are rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EOI"
+ },
+ {
+  "id": "syn-0.6562418396",
+  "syllogism": "There are no pianos that are also vaxxes. A portion of the pianos are soldiers. From this, it follows that there exist soldiers that are not vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.4413005399",
+  "syllogism": "At least one of the pianos is one of the pilots. A portion of the teachers are pilots. The conclusion is that at least one of the teachers is one of the pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "III"
+ },
+ {
+  "id": "syn-0.4363578995",
+  "syllogism": "There exist flowers that are whales. Everything that is one of the whales is also one of the trees. The conclusion is that at least one of the trees is one of the flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.6560173554",
+  "syllogism": "Each of the rivers is among the pianos. At least one of the trees is one of the pianos. The conclusion is that nothing that is one of the trees is one of the rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AIE"
+ },
+ {
+  "id": "syn-0.1748278806",
+  "syllogism": "Nothing that is one of the quarfs is one of the whales. There exist mexels that are whales. Therefore, at least one of the mexels is not one of the quarfs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.6011965822",
+  "syllogism": "At least one of the teachers is not one of the boats. Not all flowers are teachers. Consequently, nothing that is one of the flowers is one of the boats.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OOE"
+ },
+ {
+  "id": "syn-0.4762351108",
+  "syllogism": "Every one of the books is one of the flowers. No poets are flowers. Therefore, no poets are books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.5766136454",
+  "syllogism": "Each of the students is among the rivers. Some rivers are not fendrils. From this, it follows that there are no fendrils that are also students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AOE"
+ },
+ {
+  "id": "syn-0.1425937198",
+  "syllogism": "No rocks are books. Each of the stones is among the rocks. Therefore, no stones are books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.8494610979",
+  "syllogism": "There exist flowers that are students. No students are doctors. From this, it follows that everything that is one of the doctors is also one of the flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IEA"
+ },
+ {
+  "id": "syn-0.1774871268",
+  "syllogism": "All quarfs are cats. Not all fendrils are cats. It follows that not all fendrils are quarfs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.9656055013",
+  "syllogism": "Everything that is one of the stones is also one of the vaxxes. There exist stones that are not teachers. It follows that there exist teachers that are not vaxxes.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.8452147519",
+  "syllogism": "Every one of the cats is one of the books. At least one of the pianos is one of the cats. Consequently, at least one of the pianos is one of the books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.9550979681",
+  "syllogism": "There exist pilots that are pianos. At least one of the pianos is not one of the glibbs. It follows that everything that is one of the glibbs is also one of the pilots.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IOA"
+ },
+ {
+  "id": "syn-0.8980392801",
+  "syllogism": "At least one of the mexels is one of the boats. Every one of the mexels is one of the trees. Consequently, some trees are boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.1842877195",
+  "syllogism": "No whales are rivers. Not all whales are violins. At least one of the violins is not one of the rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EOO"
+ },
+ {
+  "id": "syn-0.6379146654",
+  "syllogism": "All pilots are pianos. It is impossible for any of the pianos to be one of the fendrils. Consequently, it is impossible for any of the fendrils to be one of the pilots.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.6090116101",
+  "syllogism": "Some doctors are rocks. Nothing that is one of the doctors is one of the whales. Therefore, no whales are rocks.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IEE"
+ },
+ {
+  "id": "syn-0.5924757278",
+  "syllogism": "No boats are doctors. There exist vaxxes that are doctors. Consequently, there exist vaxxes that are not boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.5455603522",
+  "syllogism": "At least one of the teachers is not one of the trees. At least one of the doctors is not one of the trees. From this, it follows that a portion of the doctors are teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OOI"
+ },
+ {
+  "id": "syn-0.6012735122",
+  "syllogism": "There are no poets that are also mexels. Each of the rivers is among the mexels. Therefore, there are no rivers that are also poets.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.0825019819",
+  "syllogism": "At least one of the violins is one of the fendrils. There exist rivers that are violins. The conclusion is that at least one of the rivers is not one of the fendrils.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IIO"
+ },
+ {
+  "id": "syn-0.4688337274",
+  "syllogism": "At least one of the books is one of the teachers. Every one of the teachers is one of the boats. Therefore, at least one of the boats is one of the books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.3603860582",
+  "syllogism": "At least one of the vaxxes is one of the books. At least one of the vaxxes is not one of the teachers. From this, it follows that at least one of the teachers is not one of the books.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IOO"
+ },
+ {
+  "id": "syn-0.4066635586",
+  "syllogism": "It is impossible for any of the cats to be one of the students. There exist rivers that are cats. Consequently, some rivers are not students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.8385137555",
+  "syllogism": "A portion of the pianos are rocks. A portion of the rivers are rocks. Consequently, a portion of the rivers are pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "III"
+ },
+ {
+  "id": "syn-0.2094534706",
+  "syllogism": "There are no violins that are also whales. At least one of the fendrils is one of the whales. Therefore, there exist fendrils that are not violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.9651982322",
+  "syllogism": "Not all students are quarfs. Not all stones are students. Consequently, at least one of the stones is not one of the quarfs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OOO"
+ },
+ {
+  "id": "syn-0.6969353550",
+  "syllogism": "All quarfs are violins. Some quarfs are poets. Consequently, there exist poets that are violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.3816114530",
+  "syllogism": "Some books are not soldiers. There exist books that are teachers. Therefore, at least one of the teachers is not one of the soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OIO"
+ },
+ {
+  "id": "syn-0.2729390852",
+  "syllogism": "Everything that is one of the trees is also one of the boats. Some trees are flowers. Consequently, some flowers are boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.6041375512",
+  "syllogism": "A portion of the poets are trees. No mexels are poets. Therefore, some mexels are trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IEI"
+ },
+ {
+  "id": "syn-0.2388964140",
+  "syllogism": "Everything that is one of the pilots is also one of the flowers. No flowers are mexels. The conclusion is that it is impossible for any of the mexels to be one of the pilots.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.0548254673",
+  "syllogism": "There exist pilots that are mexels. It is impossible for any of the pilots to be one of the poets. Some poets are mexels.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IEI"
+ },
+ {
+  "id": "syn-0.6501145367",
+  "syllogism": "It is impossible for any of the cats to be one of the flowers. Some flowers are students. Some students are not cats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.7299369211",
+  "syllogism": "There are no soldiers that are also whales. All mexels are whales. It follows that at least one of the mexels is one of the soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAI"
+ },
+ {
+  "id": "syn-0.7515327872",
+  "syllogism": "Some vaxxes are boats. All boats are students. Some students are vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.1822384071",
+  "syllogism": "There are no students that are also quarfs. It is impossible for any of the quarfs to be one of the flowers. From this, it follows that there exist flowers that are not students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EEO"
+ },
+ {
+  "id": "syn-0.2529471158",
+  "syllogism": "No quarfs are rivers. There exist rivers that are glibbs. Consequently, there exist glibbs that are not quarfs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.1026762195",
+  "syllogism": "There exist stones that are books. It is impossible for any of the books to be one of the whales. Therefore, no whales are stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IEE"
+ },
+ {
+  "id": "syn-0.7710554794",
+  "syllogism": "It is impossible for any of the pilots to be one of the fendrils. Each of the rivers is among the fendrils. There are no rivers that are also pilots.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.1528934502",
+  "syllogism": "At least one of the trees is one of the fendrils. There exist pilots that are trees. The conclusion is that at least one of the pilots is not one of the fendrils.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IIO"
+ },
+ {
+  "id": "syn-0.0105981698",
+  "syllogism": "A portion of the rivers are quarfs. All quarfs are glibbs. It follows that a portion of the glibbs are rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.3869940785",
+  "syllogism": "At least one of the teachers is not one of the books. At least one of the students is one of the books. Consequently, not all students are teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OIO"
+ },
+ {
+  "id": "syn-0.1148849557",
+  "syllogism": "Nothing that is one of the whales is one of the violins. A portion of the whales are cats. The conclusion is that there exist cats that are not violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.0742182583",
+  "syllogism": "All glibbs are flowers. There exist doctors that are not glibbs. From this, it follows that not all doctors are flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.5216247899",
+  "syllogism": "There are no fendrils that are also glibbs. There exist glibbs that are whales. Consequently, there exist whales that are not fendrils.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.9059832679",
+  "syllogism": "It is impossible for any of the rivers to be one of the rocks. At least one of the whales is not one of the rivers. From this, it follows that there are no whales that are also rocks.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EOE"
+ },
+ {
+  "id": "syn-0.9728448507",
+  "syllogism": "Each of the fendrils is among the boats. There are no boats that are also violins. There are no violins that are also fendrils.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.9688561749",
+  "syllogism": "Some glibbs are not boats. At least one of the students is one of the boats. It follows that nothing that is one of the students is one of the glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OIE"
+ },
+ {
+  "id": "syn-0.8278857269",
+  "syllogism": "A portion of the doctors are whales. Every one of the whales is one of the violins. At least one of the violins is one of the doctors.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.3797952490",
+  "syllogism": "A portion of the mexels are trees. There exist rivers that are not trees. Consequently, there exist rivers that are mexels.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "IOI"
+ },
+ {
+  "id": "syn-0.5830780476",
+  "syllogism": "There exist glibbs that are flowers. All glibbs are pianos. It follows that some pianos are flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.5026733494",
+  "syllogism": "There exist whales that are not vaxxes. At least one of the cats is not one of the whales. Therefore, at least one of the cats is one of the vaxxes.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OOI"
+ },
+ {
+  "id": "syn-0.7236005459",
+  "syllogism": "Every one of the teachers is one of the flowers. Some teachers are cats. From this, it follows that at least one of the cats is one of the flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.9844047107",
+  "syllogism": "Nothing that is one of the pilots is one of the violins. There are no vaxxes that are also pilots. From this, it follows that there are no vaxxes that are also violins.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EEE"
+ },
+ {
+  "id": "syn-0.1000757512",
+  "syllogism": "All fendrils are whales. Some fendrils are pianos. It follows that a portion of the pianos are whales.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.7258719574",
+  "syllogism": "All trees are boats. No students are boats. Everything that is one of the students is also one of the trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEA"
+ },
+ {
+  "id": "syn-0.3961042422",
+  "syllogism": "Everything that is one of the pianos is also one of the quarfs. At least one of the students is one of the pianos. Therefore, there exist students that are quarfs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.3545008672",
+  "syllogism": "Some quarfs are rivers. At least one of the boats is one of the quarfs. Some boats are not rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IIO"
+ },
+ {
+  "id": "syn-0.0243491128",
+  "syllogism": "There exist boats that are students. All boats are teachers. Therefore, a portion of the teachers are students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.2383259462",
+  "syllogism": "All violins are trees. Everything that is one of the violins is also one of the doctors. It follows that everything that is one of the doctors is also one of the trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.5628790139",
+  "syllogism": "It is impossible for any of the doctors to be one of the rocks. A portion of the rocks are rivers. Therefore, there exist rivers that are not doctors.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.0958620666",
+  "syllogism": "All boats are violins. There are no soldiers that are also violins. The conclusion is that everything that is one of the soldiers is also one of the boats.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEA"
+ },
+ {
+  "id": "syn-0.5743560140",
+  "syllogism": "Everything that is one of the whales is also one of the glibbs. Some stones are whales. It follows that a portion of the stones are glibbs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.8531820252",
+  "syllogism": "Nothing that is one of the rivers is one of the books. It is impossible for any of the flowers to be one of the books. It follows that at least one of the flowers is not one of the rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EEO"
+ },
+ {
+  "id": "syn-0.6478715992",
+  "syllogism": "Every one of the glibbs is one of the rivers. There exist glibbs that are doctors. From this, it follows that a portion of the doctors are rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.4312332606",
+  "syllogism": "Everything that is one of the poets is also one of the glibbs. All trees are glibbs. At least one of the trees is not one of the poets.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AAO"
+ },
+ {
+  "id": "syn-0.0438338537",
+  "syllogism": "There are no rivers that are also rocks. All trees are rivers. It follows that there are no trees that are also rocks.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.1626667686",
+  "syllogism": "Some whales are students. All poets are whales. From this, it follows that no poets are students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IAE"
+ },
+ {
+  "id": "syn-0.9035606580",
+  "syllogism": "Every one of the flowers is one of the quarfs. There exist flowers that are mexels. The conclusion is that a portion of the mexels are quarfs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.1421358894",
+  "syllogism": "At least one of the mexels is one of the vaxxes. Nothing that is one of the mexels is one of the doctors. It follows that all doctors are vaxxes.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IEA"
+ },
+ {
+  "id": "syn-0.4855369175",
+  "syllogism": "There are no boats that are also fendrils. Every one of the rivers is one of the boats. It follows that no rivers are fendrils.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.8260533329",
+  "syllogism": "There are no books that are also glibbs. Nothing that is one of the boats is one of the books. From this, it follows that it is impossible for any of the boats to be one of the glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EEE"
+ },
+ {
+  "id": "syn-0.8268651943",
+  "syllogism": "It is impossible for any of the teachers to be one of the books. There exist whales that are books. Therefore, there exist whales that are not teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.9021267599",
+  "syllogism": "No mexels are violins. There are no violins that are also vaxxes. Therefore, there exist vaxxes that are mexels.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EEI"
+ },
+ {
+  "id": "syn-0.4309779902",
+  "syllogism": "All students are whales. Some fendrils are students. From this, it follows that some fendrils are whales.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.9574740876",
+  "syllogism": "At least one of the rocks is one of the stones. At least one of the rocks is not one of the vaxxes. It follows that some vaxxes are not stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IOO"
+ },
+ {
+  "id": "syn-0.9533733742",
+  "syllogism": "Some flowers are not teachers. Every one of the flowers is one of the violins. Therefore, there exist violins that are not teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.5624721751",
+  "syllogism": "At least one of the rivers is not one of the flowers. All rivers are glibbs. From this, it follows that a portion of the glibbs are flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAI"
+ },
+ {
+  "id": "syn-0.6818895125",
+  "syllogism": "A portion of the trees are quarfs. Each of the trees is among the doctors. Therefore, a portion of the doctors are quarfs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.4816626045",
+  "syllogism": "Not all fendrils are soldiers. There are no students that are also soldiers. From this, it follows that some students are not fendrils.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OEO"
+ },
+ {
+  "id": "syn-0.9393813432",
+  "syllogism": "All pianos are whales. Some pianos are doctors. Therefore, there exist doctors that are whales.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.5181628795",
+  "syllogism": "There exist cats that are not glibbs. A portion of the stones are cats. Therefore, at least one of the stones is not one of the glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OIO"
+ },
+ {
+  "id": "syn-0.8616461732",
+  "syllogism": "Everything that is one of the cats is also one of the quarfs. Some cats are flowers. It follows that some flowers are quarfs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.6499585001",
+  "syllogism": "Each of the students is among the glibbs. Each of the cats is among the students. It follows that it is impossible for any of the cats to be one of the glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAE"
+ },
+ {
+  "id": "syn-0.8770416253",
+  "syllogism": "Everything that is one of the poets is also one of the boats. Everything that is one of the students is also one of the poets. The conclusion is that each of the students is among the boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.5304124275",
+  "syllogism": "Each of the whales is among the glibbs. There exist whales that are not rocks. Therefore, at least one of the rocks is one of the glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AOI"
+ },
+ {
+  "id": "syn-0.3760674214",
+  "syllogism": "There exist poets that are cats. Every one of the poets is one of the teachers. It follows that at least one of the teachers is one of the cats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.1746194105",
+  "syllogism": "Some trees are mexels. Every one of the mexels is one of the poets. Each of the poets is among the trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAA"
+ },
+ {
+  "id": "syn-0.6263002255",
+  "syllogism": "There exist soldiers that are not stones. Each of the soldiers is among the books. The conclusion is that not all books are stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.1718558739",
+  "syllogism": "A portion of the violins are pianos. At least one of the violins is not one of the whales. From this, it follows that all whales are pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IOA"
+ },
+ {
+  "id": "syn-0.3070552308",
+  "syllogism": "Every one of the students is one of the trees. A portion of the students are quarfs. At least one of the quarfs is one of the trees.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.5145461632",
+  "syllogism": "There are no poets that are also cats. A portion of the rivers are cats. It follows that some rivers are poets.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EII"
+ },
+ {
+  "id": "syn-0.1243970146",
+  "syllogism": "No rocks are trees. A portion of the quarfs are rocks. Consequently, not all quarfs are trees.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.3627868263",
+  "syllogism": "A portion of the glibbs are teachers. Every one of the glibbs is one of the boats. The conclusion is that no boats are teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAE"
+ },
+ {
+  "id": "syn-0.9981514666",
+  "syllogism": "Everything that is one of the glibbs is also one of the whales. There exist soldiers that are not whales. Therefore, not all soldiers are glibbs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.4250231927",
+  "syllogism": "Each of the pilots is among the teachers. At least one of the trees is one of the pilots. Therefore, it is impossible for any of the trees to be one of the teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AIE"
+ },
+ {
+  "id": "syn-0.9220642413",
+  "syllogism": "Every one of the students is one of the teachers. Some students are trees. The conclusion is that some trees are teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.1666372271",
+  "syllogism": "A portion of the doctors are violins. Not all doctors are fendrils. From this, it follows that it is impossible for any of the fendrils to be one of the violins.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IOE"
+ },
+ {
+  "id": "syn-0.8643934587",
+  "syllogism": "Each of the students is among the soldiers. No pianos are soldiers. Consequently, nothing that is one of the pianos is one of the students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.3616899162",
+  "syllogism": "At least one of the teachers is one of the doctors. Every one of the doctors is one of the glibbs. Consequently, nothing that is one of the glibbs is one of the teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAE"
+ },
+ {
+  "id": "syn-0.7171933757",
+  "syllogism": "Nothing that is one of the fendrils is one of the whales. Some fendrils are rivers. Consequently, not all rivers are whales.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.4160383534",
+  "syllogism": "Everything that is one of the boats is also one of the cats. No boats are books. It follows that all books are cats.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AEA"
+ },
+ {
+  "id": "syn-0.9054750749",
+  "syllogism": "Every one of the flowers is one of the books. Some vaxxes are not books. Therefore, at least one of the vaxxes is not one of the flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.0501538727",
+  "syllogism": "At least one of the cats is not one of the violins. Everything that is one of the fendrils is also one of the cats. Therefore, there are no fendrils that are also violins.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OAE"
+ },
+ {
+  "id": "syn-0.2691162843",
+  "syllogism": "Each of the rocks is among the vaxxes. All flowers are rocks. Therefore, every one of the flowers is one of the vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.0240841582",
+  "syllogism": "Some teachers are students. At least one of the fendrils is not one of the teachers. Therefore, some fendrils are students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IOI"
+ },
+ {
+  "id": "syn-0.6928519954",
+  "syllogism": "It is impossible for any of the books to be one of the teachers. Each of the students is among the teachers. No students are books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.7954812386",
+  "syllogism": "It is impossible for any of the teachers to be one of the violins. There are no teachers that are also quarfs. Therefore, some quarfs are violins.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EEI"
+ },
+ {
+  "id": "syn-0.4137029753",
+  "syllogism": "No soldiers are mexels. A portion of the students are mexels. From this, it follows that there exist students that are not soldiers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.6670011024",
+  "syllogism": "Everything that is one of the whales is also one of the pianos. Some whales are pilots. It follows that everything that is one of the pilots is also one of the pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AIA"
+ },
+ {
+  "id": "syn-0.6887468010",
+  "syllogism": "There are no glibbs that are also doctors. A portion of the doctors are soldiers. It follows that there exist soldiers that are not glibbs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.6958012597",
+  "syllogism": "Some students are not poets. There exist books that are not poets. From this, it follows that everything that is one of the books is also one of the students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OOA"
+ },
+ {
+  "id": "syn-0.0195996604",
+  "syllogism": "No books are teachers. Some books are whales. Consequently, at least one of the whales is not one of the teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.1514260118",
+  "syllogism": "At least one of the students is not one of the trees. There exist soldiers that are trees. It follows that every one of the soldiers is one of the students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OIA"
+ },
+ {
+  "id": "syn-0.0639063691",
+  "syllogism": "Each of the stones is among the vaxxes. No vaxxes are flowers. The conclusion is that it is impossible for any of the flowers to be one of the stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.7365464895",
+  "syllogism": "All whales are poets. At least one of the whales is not one of the vaxxes. Therefore, at least one of the vaxxes is not one of the poets.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.8916869570",
+  "syllogism": "Nothing that is one of the soldiers is one of the trees. Everything that is one of the stones is also one of the soldiers. From this, it follows that there are no stones that are also trees.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.4501422205",
+  "syllogism": "No poets are fendrils. No fendrils are quarfs. No quarfs are poets.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EEE"
+ },
+ {
+  "id": "syn-0.1291331215",
+  "syllogism": "All flowers are students. There exist vaxxes that are not students. It follows that there exist vaxxes that are not flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.7307387013",
+  "syllogism": "Nothing that is one of the trees is one of the quarfs. Some pianos are quarfs. Consequently, at least one of the pianos is one of the trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EII"
+ },
+ {
+  "id": "syn-0.8933178778",
+  "syllogism": "All students are soldiers. There are no soldiers that are also boats. There are no boats that are also students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.0376924876",
+  "syllogism": "Each of the flowers is among the fendrils. All fendrils are rocks. Therefore, at least one of the rocks is not one of the flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AAO"
+ },
+ {
+  "id": "syn-0.9321744025",
+  "syllogism": "Every one of the fendrils is one of the vaxxes. No vaxxes are stones. Therefore, no stones are fendrils.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.9663385045",
+  "syllogism": "There exist flowers that are not pianos. There are no pianos that are also soldiers. A portion of the soldiers are flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OEI"
+ },
+ {
+  "id": "syn-0.6729137487",
+  "syllogism": "Nothing that is one of the soldiers is one of the glibbs. Every one of the flowers is one of the soldiers. It follows that no flowers are glibbs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.4359377388",
+  "syllogism": "Some glibbs are quarfs. Everything that is one of the doctors is also one of the glibbs. The conclusion is that some doctors are not quarfs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IAO"
+ },
+ {
+  "id": "syn-0.7907702303",
+  "syllogism": "At least one of the students is one of the flowers. Each of the flowers is among the violins. It follows that at least one of the violins is one of the students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.7038312829",
+  "syllogism": "At least one of the rocks is not one of the boats. No doctors are rocks. Consequently, there exist doctors that are boats.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OEI"
+ },
+ {
+  "id": "syn-0.3831612956",
+  "syllogism": "Each of the students is among the books. It is impossible for any of the books to be one of the rivers. It follows that nothing that is one of the rivers is one of the students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.9314313551",
+  "syllogism": "There exist pilots that are not stones. There exist doctors that are pilots. Every one of the doctors is one of the stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OIA"
+ },
+ {
+  "id": "syn-0.8939324882",
+  "syllogism": "All pianos are pilots. There exist pianos that are teachers. From this, it follows that there exist teachers that are pilots.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.9409886394",
+  "syllogism": "Some poets are not students. Some students are cats. The conclusion is that some cats are not poets.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OIO"
+ },
+ {
+  "id": "syn-0.0297967356",
+  "syllogism": "All whales are vaxxes. Some doctors are whales. From this, it follows that at least one of the doctors is one of the vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.8127249810",
+  "syllogism": "A portion of the mexels are rocks. At least one of the trees is one of the mexels. The conclusion is that some trees are not rocks.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IIO"
+ },
+ {
+  "id": "syn-0.5833596526",
+  "syllogism": "Every one of the soldiers is one of the violins. There exist books that are soldiers. Consequently, some books are violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.1526408658",
+  "syllogism": "Nothing that is one of the violins is one of the poets. At least one of the violins is one of the boats. From this, it follows that no boats are poets.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIE"
+ },
+ {
+  "id": "syn-0.5810948487",
+  "syllogism": "It is impossible for any of the poets to be one of the rivers. Everything that is one of the glibbs is also one of the rivers. It follows that nothing that is one of the glibbs is one of the poets.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.4278400728",
+  "syllogism": "There exist rocks that are teachers. No vaxxes are rocks. From this, it follows that every one of the vaxxes is one of the teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IEA"
+ },
+ {
+  "id": "syn-0.3258151056",
+  "syllogism": "It is impossible for any of the fendrils to be one of the cats. Some students are cats. There exist students that are not fendrils.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.3895593029",
+  "syllogism": "Everything that is one of the poets is also one of the quarfs. There exist glibbs that are not quarfs. The conclusion is that every one of the glibbs is one of the poets.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOA"
+ },
+ {
+  "id": "syn-0.9835193492",
+  "syllogism": "All glibbs are poets. At least one of the glibbs is one of the quarfs. Therefore, there exist quarfs that are poets.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.0112717965",
+  "syllogism": "It is impossible for any of the glibbs to be one of the cats. There exist glibbs that are teachers. It follows that it is impossible for any of the teachers to be one of the cats.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIE"
+ },
+ {
+  "id": "syn-0.3950062156",
+  "syllogism": "Every one of the stones is one of the students. It is impossible for any of the students to be one of the pianos. It follows that it is impossible for any of the pianos to be one of the stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.4780932418",
+  "syllogism": "All mexels are teachers. There are no mexels that are also flowers. At least one of the flowers is one of the teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AEI"
+ },
+ {
+  "id": "syn-0.8833974719",
+  "syllogism": "Nothing that is one of the quarfs is one of the stones. Some stones are rivers. It follows that not all rivers are quarfs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.2687381053",
+  "syllogism": "At least one of the teachers is not one of the mexels. Everything that is one of the trees is also one of the teachers. It follows that some trees are not mexels.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.3571814883",
+  "syllogism": "Every one of the mexels is one of the violins. A portion of the soldiers are mexels. The conclusion is that some soldiers are violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.5177216986",
+  "syllogism": "Every one of the whales is one of the rocks. Nothing that is one of the whales is one of the cats. Consequently, everything that is one of the cats is also one of the rocks.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AEA"
+ },
+ {
+  "id": "syn-0.9548304992",
+  "syllogism": "No doctors are flowers. Everything that is one of the pianos is also one of the doctors. The conclusion is that there are no pianos that are also flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.1312667257",
+  "syllogism": "There exist stones that are mexels. Nothing that is one of the vaxxes is one of the mexels. Therefore, some vaxxes are stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "IEI"
+ },
+ {
+  "id": "syn-0.5988400844",
+  "syllogism": "A portion of the books are flowers. Everything that is one of the books is also one of the teachers. The conclusion is that there exist teachers that are flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.2480038544",
+  "syllogism": "At least one of the teachers is one of the cats. There exist teachers that are flowers. The conclusion is that it is impossible for any of the flowers to be one of the cats.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IIE"
+ },
+ {
+  "id": "syn-0.3498204955",
+  "syllogism": "Everything that is one of the trees is also one of the stones. Some trees are doctors. From this, it follows that a portion of the doctors are stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.0809737805",
+  "syllogism": "Everything that is one of the poets is also one of the cats. Some quarfs are poets. Not all quarfs are cats.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AIO"
+ },
+ {
+  "id": "syn-0.0606850280",
+  "syllogism": "Nothing that is one of the pianos is one of the whales. At least one of the teachers is one of the pianos. The conclusion is that there exist teachers that are not whales.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.5915287302",
+  "syllogism": "Not all students are violins. All violins are fendrils. Consequently, nothing that is one of the fendrils is one of the students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OAE"
+ },
+ {
+  "id": "syn-0.4883355497",
+  "syllogism": "All stones are soldiers. Nothing that is one of the soldiers is one of the trees. Consequently, there are no trees that are also stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.6057953081",
+  "syllogism": "At least one of the violins is one of the mexels. Some books are not violins. Therefore, each of the books is among the mexels.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IOA"
+ },
+ {
+  "id": "syn-0.9018433776",
+  "syllogism": "Some rivers are stones. Each of the stones is among the soldiers. There exist soldiers that are rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.0102142222",
+  "syllogism": "All rocks are students. Nothing that is one of the trees is one of the rocks. There exist trees that are not students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AEO"
+ },
+ {
+  "id": "syn-0.2326349620",
+  "syllogism": "It is impossible for any of the books to be one of the teachers. Each of the stones is among the books. It follows that nothing that is one of the stones is one of the teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.4133463440",
+  "syllogism": "Each of the rocks is among the teachers. Some boats are not rocks. Every one of the boats is one of the teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AOA"
+ },
+ {
+  "id": "syn-0.6212449722",
+  "syllogism": "There are no quarfs that are also rocks. At least one of the doctors is one of the rocks. Therefore, some doctors are not quarfs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.1079330669",
+  "syllogism": "Some teachers are vaxxes. All rivers are teachers. It follows that at least one of the rivers is not one of the vaxxes.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IAO"
+ },
+ {
+  "id": "syn-0.4594087236",
+  "syllogism": "Nothing that is one of the trees is one of the cats. A portion of the trees are pilots. The conclusion is that some pilots are not cats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.7483573211",
+  "syllogism": "Everything that is one of the pianos is also one of the pilots. All pianos are rivers. It follows that nothing that is one of the rivers is one of the pilots.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AAE"
+ },
+ {
+  "id": "syn-0.2233497159",
+  "syllogism": "There are no cats that are also pianos. All books are cats. Therefore, there are no books that are also pianos.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.7860749469",
+  "syllogism": "There are no quarfs that are also mexels. Some rivers are not quarfs. Therefore, no rivers are mexels.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EOE"
+ },
+ {
+  "id": "syn-0.0109453416",
+  "syllogism": "Every one of the rivers is one of the teachers. There exist vaxxes that are rivers. Therefore, some vaxxes are teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.4486353879",
+  "syllogism": "No pianos are rocks. Not all rocks are trees. Consequently, at least one of the trees is not one of the pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EOO"
+ },
+ {
+  "id": "syn-0.9848934954",
+  "syllogism": "No cats are vaxxes. At least one of the stones is one of the cats. Some stones are not vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.5666299452",
+  "syllogism": "Each of the glibbs is among the students. No glibbs are boats. Consequently, no boats are students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.3473312377",
+  "syllogism": "Nothing that is one of the boats is one of the stones. Each of the fendrils is among the boats. It follows that there are no fendrils that are also stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.5341616140",
+  "syllogism": "All whales are pilots. All whales are soldiers. It follows that at least one of the soldiers is not one of the pilots.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AAO"
+ },
+ {
+  "id": "syn-0.2064869913",
+  "syllogism": "Each of the trees is among the rivers. Some students are trees. From this, it follows that there exist students that are rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.3948994251",
+  "syllogism": "All whales are students. Some whales are not cats. It follows that every one of the cats is one of the students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AOA"
+ },
+ {
+  "id": "syn-0.8174430670",
+  "syllogism": "A portion of the poets are students. Everything that is one of the poets is also one of the mexels. From this, it follows that some mexels are students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.7803185836",
+  "syllogism": "There exist rocks that are doctors. Nothing that is one of the rocks is one of the violins. From this, it follows that there exist violins that are not doctors.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IEO"
+ },
+ {
+  "id": "syn-0.2227563429",
+  "syllogism": "It is impossible for any of the glibbs to be one of the rocks. All soldiers are glibbs. From this, it follows that nothing that is one of the soldiers is one of the rocks.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.2806378187",
+  "syllogism": "Some soldiers are boats. Nothing that is one of the pianos is one of the boats. There are no pianos that are also soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "IEE"
+ },
+ {
+  "id": "syn-0.5528635491",
+  "syllogism": "Everything that is one of the books is also one of the fendrils. Nothing that is one of the fendrils is one of the poets. Therefore, no poets are books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.3348260048",
+  "syllogism": "Some rivers are not flowers. At least one of the students is not one of the rivers. The conclusion is that there are no students that are also flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OOE"
+ },
+ {
+  "id": "syn-0.8400929479",
+  "syllogism": "Every one of the stones is one of the glibbs. Some stones are poets. Consequently, at least one of the poets is one of the glibbs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.6045066698",
+  "syllogism": "Some trees are doctors. There exist doctors that are rocks. It follows that everything that is one of the rocks is also one of the trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IIA"
+ },
+ {
+  "id": "syn-0.9741314994",
+  "syllogism": "No stones are pilots. A portion of the stones are mexels. Consequently, at least one of the mexels is not one of the pilots.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.9305738407",
+  "syllogism": "At least one of the fendrils is one of the teachers. Everything that is one of the rocks is also one of the fendrils. It follows that not all rocks are teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IAO"
+ },
+ {
+  "id": "syn-0.1599103422",
+  "syllogism": "Everything that is one of the stones is also one of the pianos. No trees are pianos. There are no trees that are also stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.3487855310",
+  "syllogism": "Nothing that is one of the students is one of the soldiers. Each of the soldiers is among the poets. Each of the poets is among the students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EAA"
+ },
+ {
+  "id": "syn-0.0807917238",
+  "syllogism": "All teachers are fendrils. Everything that is one of the poets is also one of the teachers. From this, it follows that everything that is one of the poets is also one of the fendrils.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.7413091591",
+  "syllogism": "A portion of the flowers are rocks. It is impossible for any of the flowers to be one of the fendrils. There exist fendrils that are rocks.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IEI"
+ },
+ {
+  "id": "syn-0.3264612994",
+  "syllogism": "Every one of the stones is one of the fendrils. It is impossible for any of the fendrils to be one of the whales. Consequently, it is impossible for any of the whales to be one of the stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.4236497214",
+  "syllogism": "Not all doctors are students. It is impossible for any of the students to be one of the whales. It follows that there are no whales that are also doctors.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OEE"
+ },
+ {
+  "id": "syn-0.1660055452",
+  "syllogism": "It is impossible for any of the poets to be one of the cats. A portion of the cats are mexels. From this, it follows that not all mexels are poets.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.7325426823",
+  "syllogism": "Nothing that is one of the mexels is one of the quarfs. Some mexels are whales. From this, it follows that every one of the whales is one of the quarfs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIA"
+ },
+ {
+  "id": "syn-0.7907457085",
+  "syllogism": "All violins are flowers. A portion of the violins are soldiers. The conclusion is that there exist soldiers that are flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.6139018471",
+  "syllogism": "No pilots are fendrils. Not all pilots are poets. From this, it follows that no poets are fendrils.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EOE"
+ },
+ {
+  "id": "syn-0.0511698388",
+  "syllogism": "Nothing that is one of the doctors is one of the rocks. Some trees are rocks. The conclusion is that at least one of the trees is not one of the doctors.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.1520839539",
+  "syllogism": "There exist pianos that are not poets. No poets are mexels. From this, it follows that every one of the mexels is one of the pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OEA"
+ },
+ {
+  "id": "syn-0.4790584048",
+  "syllogism": "Everything that is one of the trees is also one of the pianos. No pianos are poets. It is impossible for any of the poets to be one of the trees.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.6828576159",
+  "syllogism": "Every one of the glibbs is one of the stones. Not all glibbs are poets. Therefore, nothing that is one of the poets is one of the stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AOE"
+ },
+ {
+  "id": "syn-0.5795550035",
+  "syllogism": "There are no vaxxes that are also trees. Some fendrils are trees. Therefore, at least one of the fendrils is not one of the vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.8618982622",
+  "syllogism": "At least one of the pianos is not one of the books. No books are pilots. Therefore, at least one of the pilots is one of the pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OEI"
+ },
+ {
+  "id": "syn-0.5850297531",
+  "syllogism": "It is impossible for any of the violins to be one of the flowers. Some pilots are violins. It follows that at least one of the pilots is not one of the flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.5011087613",
+  "syllogism": "Each of the cats is among the violins. Some cats are not teachers. Therefore, not all teachers are violins.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.3526195315",
+  "syllogism": "Not all rocks are stones. All rocks are flowers. Therefore, there exist flowers that are not stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.0539077269",
+  "syllogism": "It is impossible for any of the whales to be one of the rocks. No vaxxes are whales. Therefore, everything that is one of the vaxxes is also one of the rocks.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EEA"
+ },
+ {
+  "id": "syn-0.0209971157",
+  "syllogism": "There are no cats that are also mexels. At least one of the mexels is one of the rocks. At least one of the rocks is not one of the cats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.2403673081",
+  "syllogism": "There are no soldiers that are also boats. There exist vaxxes that are not soldiers. Nothing that is one of the vaxxes is one of the boats.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EOE"
+ },
+ {
+  "id": "syn-0.9771499472",
+  "syllogism": "Every one of the whales is one of the books. There exist whales that are students. From this, it follows that there exist students that are books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.9256636611",
+  "syllogism": "A portion of the mexels are whales. Every one of the soldiers is one of the mexels. From this, it follows that it is impossible for any of the soldiers to be one of the whales.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IAE"
+ },
+ {
+  "id": "syn-0.3794943037",
+  "syllogism": "There are no boats that are also mexels. There exist flowers that are boats. It follows that some flowers are not mexels.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.6061049806",
+  "syllogism": "Some doctors are not trees. Each of the trees is among the quarfs. Therefore, at least one of the quarfs is one of the doctors.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OAI"
+ },
+ {
+  "id": "syn-0.1743511184",
+  "syllogism": "Every one of the trees is one of the violins. There exist trees that are doctors. From this, it follows that at least one of the doctors is one of the violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.3887365119",
+  "syllogism": "At least one of the soldiers is one of the teachers. No cats are teachers. The conclusion is that some cats are soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "IEI"
+ },
+ {
+  "id": "syn-0.1494095725",
+  "syllogism": "Each of the violins is among the soldiers. There exist violins that are pianos. From this, it follows that at least one of the pianos is one of the soldiers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.5054131391",
+  "syllogism": "A portion of the fendrils are soldiers. A portion of the soldiers are stones. Therefore, there exist stones that are fendrils.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "III"
+ },
+ {
+  "id": "syn-0.0630521671",
+  "syllogism": "No soldiers are mexels. Everything that is one of the whales is also one of the mexels. Therefore, no whales are soldiers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.8383737867",
+  "syllogism": "Nothing that is one of the flowers is one of the mexels. There exist mexels that are not rivers. A portion of the rivers are flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EOI"
+ },
+ {
+  "id": "syn-0.0943968541",
+  "syllogism": "Every one of the violins is one of the pianos. Nothing that is one of the pianos is one of the glibbs. Consequently, no glibbs are violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.1494311881",
+  "syllogism": "There exist trees that are not quarfs. There are no rocks that are also quarfs. Therefore, nothing that is one of the rocks is one of the trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OEE"
+ },
+ {
+  "id": "syn-0.4599168319",
+  "syllogism": "All pianos are fendrils. All trees are pianos. From this, it follows that each of the trees is among the fendrils.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.1761332404",
+  "syllogism": "Every one of the glibbs is one of the trees. Every one of the rivers is one of the trees. Therefore, a portion of the rivers are glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AAI"
+ },
+ {
+  "id": "syn-0.2901957140",
+  "syllogism": "At least one of the whales is not one of the teachers. All whales are trees. At least one of the trees is not one of the teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.3049650519",
+  "syllogism": "Not all students are fendrils. Each of the trees is among the students. The conclusion is that each of the trees is among the fendrils.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OAA"
+ },
+ {
+  "id": "syn-0.2843197258",
+  "syllogism": "Everything that is one of the soldiers is also one of the rivers. There are no teachers that are also rivers. From this, it follows that it is impossible for any of the teachers to be one of the soldiers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.3484354572",
+  "syllogism": "At least one of the violins is one of the vaxxes. Each of the vaxxes is among the cats. Therefore, all cats are violins.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAA"
+ },
+ {
+  "id": "syn-0.1948583946",
+  "syllogism": "All glibbs are pilots. There are no pilots that are also mexels. Therefore, nothing that is one of the mexels is one of the glibbs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.3620171716",
+  "syllogism": "All vaxxes are whales. It is impossible for any of the vaxxes to be one of the violins. Therefore, there exist violins that are whales.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AEI"
+ },
+ {
+  "id": "syn-0.4607374272",
+  "syllogism": "Everything that is one of the pianos is also one of the violins. Nothing that is one of the violins is one of the trees. From this, it follows that there are no trees that are also pianos.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.2603412353",
+  "syllogism": "Nothing that is one of the books is one of the glibbs. Not all glibbs are trees. From this, it follows that some trees are not books.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EOO"
+ },
+ {
+  "id": "syn-0.1525842369",
+  "syllogism": "At least one of the pianos is one of the whales. All whales are stones. Therefore, a portion of the stones are pianos.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.7954607210",
+  "syllogism": "Everything that is one of the doctors is also one of the pianos. Each of the vaxxes is among the pianos. It follows that some vaxxes are not doctors.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AAO"
+ },
+ {
+  "id": "syn-0.7233376375",
+  "syllogism": "All mexels are violins. Not all fendrils are violins. Consequently, not all fendrils are mexels.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.8290864314",
+  "syllogism": "A portion of the pianos are trees. Some poets are not pianos. Therefore, there exist poets that are trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IOI"
+ },
+ {
+  "id": "syn-0.5466499696",
+  "syllogism": "Nothing that is one of the trees is one of the poets. A portion of the trees are mexels. There exist mexels that are not poets.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.8059260519",
+  "syllogism": "At least one of the violins is not one of the mexels. All books are violins. Everything that is one of the books is also one of the mexels.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OAA"
+ },
+ {
+  "id": "syn-0.0875244015",
+  "syllogism": "Some teachers are not trees. Each of the teachers is among the pianos. It follows that at least one of the pianos is not one of the trees.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.5555833086",
+  "syllogism": "Some stones are students. No whales are students. From this, it follows that not all whales are stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "IEO"
+ },
+ {
+  "id": "syn-0.2223453446",
+  "syllogism": "All violins are trees. It is impossible for any of the quarfs to be one of the trees. The conclusion is that no quarfs are violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.3586420322",
+  "syllogism": "Some stones are pianos. Nothing that is one of the flowers is one of the stones. From this, it follows that at least one of the flowers is not one of the pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IEO"
+ },
+ {
+  "id": "syn-0.2328358253",
+  "syllogism": "All boats are soldiers. There exist poets that are not soldiers. The conclusion is that some poets are not boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.6299847305",
+  "syllogism": "There are no trees that are also books. There exist mexels that are trees. From this, it follows that no mexels are books.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIE"
+ },
+ {
+  "id": "syn-0.9764056654",
+  "syllogism": "There are no mexels that are also rivers. Some students are rivers. From this, it follows that some students are not mexels.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.3856240280",
+  "syllogism": "Everything that is one of the boats is also one of the pianos. Nothing that is one of the boats is one of the vaxxes. From this, it follows that some vaxxes are pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AEI"
+ },
+ {
+  "id": "syn-0.6218198868",
+  "syllogism": "Everything that is one of the rocks is also one of the books. No books are pianos. No pianos are rocks.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.1638999625",
+  "syllogism": "At least one of the whales is one of the teachers. At least one of the pilots is not one of the whales. It follows that a portion of the pilots are teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IOI"
+ },
+ {
+  "id": "syn-0.5827828753",
+  "syllogism": "A portion of the students are books. Every one of the books is one of the violins. Consequently, at least one of the violins is one of the students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.9778487390",
+  "syllogism": "Not all quarfs are poets. Everything that is one of the glibbs is also one of the poets. Therefore, some glibbs are not quarfs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.0255074933",
+  "syllogism": "It is impossible for any of the whales to be one of the poets. Some poets are soldiers. Consequently, at least one of the soldiers is not one of the whales.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.2547133841",
+  "syllogism": "There exist whales that are students. Every one of the students is one of the flowers. The conclusion is that all flowers are whales.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAA"
+ },
+ {
+  "id": "syn-0.9810205581",
+  "syllogism": "No pilots are mexels. At least one of the stones is one of the pilots. From this, it follows that some stones are not mexels.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.1478781452",
+  "syllogism": "All teachers are books. Some books are stones. There exist stones that are not teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AIO"
+ },
+ {
+  "id": "syn-0.4569072250",
+  "syllogism": "It is impossible for any of the books to be one of the quarfs. A portion of the quarfs are mexels. From this, it follows that at least one of the mexels is not one of the books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.5058428202",
+  "syllogism": "Nothing that is one of the teachers is one of the rivers. It is impossible for any of the vaxxes to be one of the teachers. It follows that no vaxxes are rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EEE"
+ },
+ {
+  "id": "syn-0.6212545941",
+  "syllogism": "Each of the doctors is among the boats. There are no boats that are also soldiers. Therefore, nothing that is one of the soldiers is one of the doctors.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.4524768757",
+  "syllogism": "Each of the whales is among the books. No teachers are whales. The conclusion is that some teachers are not books.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AEO"
+ },
+ {
+  "id": "syn-0.4107709839",
+  "syllogism": "There are no pianos that are also rocks. There exist poets that are pianos. Therefore, there exist poets that are not rocks.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.6012822421",
+  "syllogism": "No glibbs are pianos. Nothing that is one of the pianos is one of the rivers. The conclusion is that some rivers are glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EEI"
+ },
+ {
+  "id": "syn-0.7397871325",
+  "syllogism": "Nothing that is one of the whales is one of the students. Each of the doctors is among the whales. No doctors are students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.8260666088",
+  "syllogism": "No glibbs are teachers. Nothing that is one of the glibbs is one of the doctors. Therefore, there are no doctors that are also teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EEE"
+ },
+ {
+  "id": "syn-0.8973616936",
+  "syllogism": "Some rivers are not violins. All rivers are fendrils. From this, it follows that at least one of the fendrils is not one of the violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.4761605001",
+  "syllogism": "Not all students are mexels. There exist rivers that are not mexels. The conclusion is that nothing that is one of the rivers is one of the students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OOE"
+ },
+ {
+  "id": "syn-0.5247979677",
+  "syllogism": "Every one of the students is one of the boats. At least one of the stones is not one of the boats. The conclusion is that not all stones are students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.8840777866",
+  "syllogism": "There exist teachers that are not rocks. At least one of the rocks is one of the fendrils. Each of the fendrils is among the teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OIA"
+ },
+ {
+  "id": "syn-0.3015647808",
+  "syllogism": "At least one of the mexels is one of the teachers. All teachers are whales. From this, it follows that some whales are mexels.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.2146310258",
+  "syllogism": "Not all books are trees. At least one of the trees is one of the vaxxes. Therefore, not all vaxxes are books.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OIO"
+ },
+ {
+  "id": "syn-0.2137261318",
+  "syllogism": "All rivers are pilots. Not all books are pilots. It follows that there exist books that are not rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.5083001240",
+  "syllogism": "All students are books. There are no teachers that are also books. Consequently, there exist teachers that are students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEI"
+ },
+ {
+  "id": "syn-0.1468951025",
+  "syllogism": "Not all students are flowers. All students are vaxxes. From this, it follows that at least one of the vaxxes is not one of the flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.6288902286",
+  "syllogism": "Every one of the teachers is one of the fendrils. Every one of the fendrils is one of the rocks. From this, it follows that each of the rocks is among the teachers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.2303526721",
+  "syllogism": "No stones are rivers. A portion of the rivers are boats. Therefore, not all boats are stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.6807354758",
+  "syllogism": "No cats are boats. It is impossible for any of the boats to be one of the teachers. Consequently, there exist teachers that are cats.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EEI"
+ },
+ {
+  "id": "syn-0.9257253235",
+  "syllogism": "A portion of the teachers are rivers. Every one of the rivers is one of the pianos. The conclusion is that at least one of the pianos is one of the teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.7902697022",
+  "syllogism": "There exist soldiers that are not cats. At least one of the cats is not one of the rivers. From this, it follows that it is impossible for any of the rivers to be one of the soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OOE"
+ },
+ {
+  "id": "syn-0.1178690196",
+  "syllogism": "Everything that is one of the soldiers is also one of the mexels. Nothing that is one of the stones is one of the mexels. Therefore, it is impossible for any of the stones to be one of the soldiers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.4261009906",
+  "syllogism": "There exist whales that are not rivers. Everything that is one of the whales is also one of the poets. Every one of the poets is one of the rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAA"
+ },
+ {
+  "id": "syn-0.6930806346",
+  "syllogism": "All stones are cats. No cats are students. Consequently, no students are stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.3080839505",
+  "syllogism": "There exist violins that are not books. It is impossible for any of the students to be one of the books. Therefore, a portion of the students are violins.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OEI"
+ },
+ {
+  "id": "syn-0.4445617690",
+  "syllogism": "Everything that is one of the pilots is also one of the rivers. Each of the violins is among the pilots. Consequently, each of the violins is among the rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.9423691104",
+  "syllogism": "There are no doctors that are also glibbs. At least one of the cats is not one of the glibbs. Consequently, a portion of the cats are doctors.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EOI"
+ },
+ {
+  "id": "syn-0.9847974100",
+  "syllogism": "Each of the glibbs is among the rivers. At least one of the quarfs is one of the glibbs. Consequently, a portion of the quarfs are rivers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.6782117339",
+  "syllogism": "All poets are soldiers. No rocks are soldiers. From this, it follows that each of the rocks is among the poets.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEA"
+ },
+ {
+  "id": "syn-0.1322067734",
+  "syllogism": "No mexels are quarfs. All cats are quarfs. Therefore, no cats are mexels.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.0085866054",
+  "syllogism": "Each of the rivers is among the soldiers. Nothing that is one of the rivers is one of the students. It follows that every one of the students is one of the soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AEA"
+ },
+ {
+  "id": "syn-0.3866019041",
+  "syllogism": "Everything that is one of the whales is also one of the teachers. A portion of the whales are fendrils. Consequently, some fendrils are teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.7623578388",
+  "syllogism": "At least one of the quarfs is one of the doctors. There are no quarfs that are also trees. The conclusion is that everything that is one of the trees is also one of the doctors.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IEA"
+ },
+ {
+  "id": "syn-0.5793840039",
+  "syllogism": "No doctors are pilots. Some poets are pilots. Therefore, some poets are not doctors.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.2823352167",
+  "syllogism": "It is impossible for any of the mexels to be one of the pianos. Every one of the pianos is one of the soldiers. Consequently, there exist soldiers that are mexels.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EAI"
+ },
+ {
+  "id": "syn-0.0706014744",
+  "syllogism": "At least one of the fendrils is one of the cats. Everything that is one of the fendrils is also one of the quarfs. From this, it follows that some quarfs are cats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.8759980494",
+  "syllogism": "At least one of the rocks is one of the books. There exist pilots that are rocks. Therefore, at least one of the pilots is not one of the books.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IIO"
+ },
+ {
+  "id": "syn-0.5694594276",
+  "syllogism": "Nothing that is one of the whales is one of the poets. Some books are poets. From this, it follows that some books are not whales.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.5731948879",
+  "syllogism": "Each of the flowers is among the rocks. Some students are flowers. The conclusion is that all students are rocks.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AIA"
+ },
+ {
+  "id": "syn-0.6937323806",
+  "syllogism": "At least one of the books is one of the poets. Everything that is one of the books is also one of the doctors. Therefore, at least one of the doctors is one of the poets.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.7036949585",
+  "syllogism": "At least one of the fendrils is one of the doctors. Not all violins are fendrils. Therefore, not all violins are doctors.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IOO"
+ },
+ {
+  "id": "syn-0.5909910607",
+  "syllogism": "Every one of the boats is one of the fendrils. Nothing that is one of the pilots is one of the fendrils. It follows that it is impossible for any of the pilots to be one of the boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.9450248863",
+  "syllogism": "There exist cats that are whales. There are no students that are also whales. The conclusion is that there exist students that are cats.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "IEI"
+ },
+ {
+  "id": "syn-0.5086065356",
+  "syllogism": "Each of the flowers is among the violins. Nothing that is one of the vaxxes is one of the violins. The conclusion is that nothing that is one of the vaxxes is one of the flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.1272156113",
+  "syllogism": "Each of the trees is among the pianos. There exist pianos that are violins. Therefore, nothing that is one of the violins is one of the trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AIE"
+ },
+ {
+  "id": "syn-0.8503940397",
+  "syllogism": "No fendrils are soldiers. All doctors are soldiers. It is impossible for any of the doctors to be one of the fendrils.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.9057693777",
+  "syllogism": "Every one of the poets is one of the rivers. A portion of the doctors are poets. From this, it follows that some doctors are not rivers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AIO"
+ },
+ {
+  "id": "syn-0.9370965977",
+  "syllogism": "Nothing that is one of the teachers is one of the pilots. Every one of the doctors is one of the teachers. It follows that there are no doctors that are also pilots.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.5320168138",
+  "syllogism": "There are no quarfs that are also boats. It is impossible for any of the boats to be one of the soldiers. From this, it follows that it is impossible for any of the soldiers to be one of the quarfs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EEE"
+ },
+ {
+  "id": "syn-0.3079532446",
+  "syllogism": "At least one of the books is one of the pilots. Every one of the pilots is one of the boats. Therefore, some boats are books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.1103995731",
+  "syllogism": "Every one of the whales is one of the pianos. There exist violins that are not whales. From this, it follows that at least one of the violins is not one of the pianos.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.0684668082",
+  "syllogism": "There exist teachers that are boats. Every one of the teachers is one of the pianos. Some pianos are boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.1825556391",
+  "syllogism": "Some violins are not soldiers. Some rivers are not soldiers. Therefore, no rivers are violins.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OOE"
+ },
+ {
+  "id": "syn-0.2288545274",
+  "syllogism": "Each of the fendrils is among the vaxxes. Each of the rocks is among the fendrils. Every one of the rocks is one of the vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.6615975951",
+  "syllogism": "There exist flowers that are quarfs. Some flowers are not pilots. Therefore, there exist pilots that are not quarfs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IOO"
+ },
+ {
+  "id": "syn-0.9954547248",
+  "syllogism": "There are no trees that are also glibbs. Some quarfs are glibbs. Consequently, there exist quarfs that are not trees.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.2517045048",
+  "syllogism": "No pianos are glibbs. Every one of the pianos is one of the trees. Therefore, no trees are glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.0687236753",
+  "syllogism": "There are no stones that are also whales. There exist whales that are books. Consequently, some books are not stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.5728861153",
+  "syllogism": "All whales are fendrils. Everything that is one of the fendrils is also one of the stones. Therefore, everything that is one of the stones is also one of the whales.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AAA"
+ },
+ {
+  "id": "syn-0.3116902403",
+  "syllogism": "It is impossible for any of the soldiers to be one of the quarfs. Every one of the books is one of the quarfs. It follows that nothing that is one of the books is one of the soldiers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.5027866919",
+  "syllogism": "There exist students that are boats. There exist boats that are books. Therefore, there exist books that are students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "III"
+ },
+ {
+  "id": "syn-0.4333389266",
+  "syllogism": "Nothing that is one of the boats is one of the fendrils. Some students are boats. There exist students that are not fendrils.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.1391824870",
+  "syllogism": "There exist mexels that are whales. Some whales are not stones. Consequently, nothing that is one of the stones is one of the mexels.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IOE"
+ },
+ {
+  "id": "syn-0.6533252648",
+  "syllogism": "All violins are cats. There are no pianos that are also cats. It is impossible for any of the pianos to be one of the violins.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.7706107782",
+  "syllogism": "A portion of the flowers are whales. It is impossible for any of the whales to be one of the quarfs. It follows that at least one of the quarfs is not one of the flowers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IEO"
+ },
+ {
+  "id": "syn-0.7559739964",
+  "syllogism": "Every one of the books is one of the students. Some books are flowers. It follows that there exist flowers that are students.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AII"
+ },
+ {
+  "id": "syn-0.9984567558",
+  "syllogism": "There exist glibbs that are quarfs. A portion of the quarfs are teachers. Therefore, not all teachers are glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IIO"
+ },
+ {
+  "id": "syn-0.8337373957",
+  "syllogism": "No teachers are flowers. There exist rivers that are flowers. There exist rivers that are not teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.3605764220",
+  "syllogism": "It is impossible for any of the soldiers to be one of the flowers. Nothing that is one of the flowers is one of the books. The conclusion is that each of the books is among the soldiers.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EEA"
+ },
+ {
+  "id": "syn-0.2515983851",
+  "syllogism": "There are no poets that are also cats. Some poets are flowers. From this, it follows that at least one of the flowers is not one of the cats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.0593361520",
+  "syllogism": "At least one of the glibbs is not one of the poets. At least one of the books is one of the poets. Therefore, not all books are glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OIO"
+ },
+ {
+  "id": "syn-0.2329545980",
+  "syllogism": "No quarfs are doctors. Each of the fendrils is among the doctors. It follows that it is impossible for any of the fendrils to be one of the quarfs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.4843599837",
+  "syllogism": "Every one of the fendrils is one of the students. Some fendrils are rocks. Therefore, not all rocks are students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AIO"
+ },
+ {
+  "id": "syn-0.7420363176",
+  "syllogism": "At least one of the soldiers is not one of the quarfs. Each of the soldiers is among the teachers. The conclusion is that not all teachers are quarfs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "OAO"
+ },
+ {
+  "id": "syn-0.3646446232",
+  "syllogism": "Everything that is one of the flowers is also one of the students. There are no flowers that are also rivers. Therefore, at least one of the rivers is one of the students.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AEI"
+ },
+ {
+  "id": "syn-0.9821731064",
+  "syllogism": "There are no stones that are also boats. Some boats are rocks. The conclusion is that at least one of the rocks is not one of the stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.1195459281",
+  "syllogism": "At least one of the pianos is one of the quarfs. There exist glibbs that are pianos. Therefore, no glibbs are quarfs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "IIE"
+ },
+ {
+  "id": "syn-0.4564537406",
+  "syllogism": "Everything that is one of the glibbs is also one of the flowers. Not all trees are flowers. Therefore, there exist trees that are not glibbs.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.5590329626",
+  "syllogism": "Some rocks are not glibbs. There exist rivers that are not rocks. Consequently, nothing that is one of the rivers is one of the glibbs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "OOE"
+ },
+ {
+  "id": "syn-0.8689010594",
+  "syllogism": "No vaxxes are stones. There exist trees that are vaxxes. The conclusion is that there exist trees that are not stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.3957084949",
+  "syllogism": "A portion of the rocks are glibbs. Some glibbs are boats. It follows that it is impossible for any of the boats to be one of the rocks.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IIE"
+ },
+ {
+  "id": "syn-0.8699417846",
+  "syllogism": "Each of the stones is among the whales. It is impossible for any of the cats to be one of the whales. It follows that nothing that is one of the cats is one of the stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.0553594744",
+  "syllogism": "Every one of the pianos is one of the books. There exist pianos that are fendrils. The conclusion is that it is impossible for any of the fendrils to be one of the books.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "AIE"
+ },
+ {
+  "id": "syn-0.1980109529",
+  "syllogism": "There are no pianos that are also books. At least one of the fendrils is one of the pianos. Not all fendrils are books.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.3098369888",
+  "syllogism": "Nothing that is one of the mexels is one of the trees. A portion of the glibbs are trees. The conclusion is that a portion of the glibbs are mexels.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EII"
+ },
+ {
+  "id": "syn-0.8574699038",
+  "syllogism": "It is impossible for any of the pianos to be one of the stones. At least one of the students is one of the stones. It follows that some students are not pianos.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.7547269699",
+  "syllogism": "There exist stones that are not quarfs. There exist doctors that are quarfs. From this, it follows that at least one of the doctors is one of the stones.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OII"
+ },
+ {
+  "id": "syn-0.9413242655",
+  "syllogism": "There are no flowers that are also cats. Everything that is one of the mexels is also one of the flowers. It follows that no mexels are cats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 1,
+  "mood": "EAE"
+ },
+ {
+  "id": "syn-0.2734800321",
+  "syllogism": "There are no violins that are also flowers. No students are flowers. Consequently, there are no students that are also violins.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EEE"
+ },
+ {
+  "id": "syn-0.6644710336",
+  "syllogism": "Each of the soldiers is among the stones. No stones are teachers. No teachers are soldiers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.1680088576",
+  "syllogism": "It is impossible for any of the rocks to be one of the poets. Nothing that is one of the teachers is one of the poets. Consequently, at least one of the teachers is not one of the rocks.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "EEO"
+ },
+ {
+  "id": "syn-0.0796119257",
+  "syllogism": "All vaxxes are stones. No stones are flowers. It follows that no flowers are vaxxes.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "AEE"
+ },
+ {
+  "id": "syn-0.3377425507",
+  "syllogism": "Nothing that is one of the glibbs is one of the fendrils. All glibbs are vaxxes. Some vaxxes are fendrils.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EAI"
+ },
+ {
+  "id": "syn-0.9170816418",
+  "syllogism": "There exist pilots that are boats. Everything that is one of the pilots is also one of the flowers. It follows that there exist flowers that are boats.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.4425256753",
+  "syllogism": "Everything that is one of the trees is also one of the whales. There exist vaxxes that are whales. It follows that every one of the vaxxes is one of the trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AIA"
+ },
+ {
+  "id": "syn-0.0359699029",
+  "syllogism": "There are no violins that are also stones. At least one of the violins is one of the rocks. It follows that there exist rocks that are not stones.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.9187699388",
+  "syllogism": "At least one of the violins is not one of the doctors. There are no doctors that are also quarfs. The conclusion is that there are no quarfs that are also violins.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "OEE"
+ },
+ {
+  "id": "syn-0.2619538206",
+  "syllogism": "A portion of the flowers are vaxxes. Each of the vaxxes is among the stones. At least one of the stones is one of the flowers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "IAI"
+ },
+ {
+  "id": "syn-0.1459140206",
+  "syllogism": "There exist trees that are not violins. Some glibbs are violins. Nothing that is one of the glibbs is one of the trees.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "OIE"
+ },
+ {
+  "id": "syn-0.9146496229",
+  "syllogism": "Each of the doctors is among the stones. Not all boats are stones. The conclusion is that some boats are not doctors.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AOO"
+ },
+ {
+  "id": "syn-0.9009062234",
+  "syllogism": "Some violins are books. At least one of the violins is one of the vaxxes. No vaxxes are books.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 3,
+  "mood": "IIE"
+ },
+ {
+  "id": "syn-0.9037865077",
+  "syllogism": "Nothing that is one of the teachers is one of the stones. There exist stones that are cats. Therefore, not all cats are teachers.",
+  "validity": true,
+  "plausibility": false,
+  "figure": 4,
+  "mood": "EIO"
+ },
+ {
+  "id": "syn-0.0523485079",
+  "syllogism": "All quarfs are mexels. Some flowers are mexels. The conclusion is that there are no flowers that are also quarfs.",
+  "validity": false,
+  "plausibility": false,
+  "figure": 2,
+  "mood": "AIE"
+ }
+]

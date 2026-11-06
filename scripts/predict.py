@@ -3,6 +3,7 @@
 Usage: python scripts/predict.py "All planets are dogs. All dogs are animals. Therefore, all planets are animals."
 """
 import json
+import os
 import sys
 from pathlib import Path
 
@@ -13,7 +14,7 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from train_lora import PROMPT
 
-ADAPTER = Path("outputs/lora-qwen15b-syn/adapter")
+ADAPTER = Path(os.environ.get("ADAPTER", "outputs/lora-qwen15b-syn/adapter"))  # set ADAPTER=..\5_Trained_Model for the submission folder
 BASE = "Qwen/Qwen2.5-1.5B"
 
 tok = AutoTokenizer.from_pretrained(ADAPTER)
